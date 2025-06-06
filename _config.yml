@@ -1,11 +1,11 @@
 # Site settings
-title: Space and Place Conference
-email: mapref@mcmaster.ca
+title: Canadian Data Curation Forum
+email: canadiandatacurationforum@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mcmaster-university-library.github.io/space-and-place" # the base hostname & protocol for your site
-twitter_username:
-github_username:
+url: "http://data-curation.github.io" # the base hostname & protocol for your site
+twitter_username: portageCARLABRC
+github_username:  data-curation
 
 # Build settings
 markdown: kramdown
