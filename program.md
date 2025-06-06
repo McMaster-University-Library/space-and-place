@@ -4,6 +4,9 @@ title: Draft Program
 permalink: /program/
 ---
 
+<!-- REPLACE WITH DESCRIPTIONS OF SPACE AND PLACE CONFERENCE EVENTS -->
+
+<!--
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Data Curation Training Event: <a href="#ws-1">Session 1</a> | <a href="#ws-2">Session 2</a> | 
   <a href="#ws-3">Session 3</a></p>
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Community-Building Forum: <a href="#cb-1">Session 1</a> |
@@ -141,3 +144,5 @@ A series of updates about national general- (SP Dataverse, FRDR) and domain-base
   4. How might the model or timeline be revised based on this analysis?
 - Regroup and discussion.
   1. What were the major discussion points and general outcomes of the exercise?
+
+-->
