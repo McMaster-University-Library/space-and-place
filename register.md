@@ -4,11 +4,15 @@ title: Register
 permalink: /register/
 ---
 
+<!-- REPLACE WITH THE APPROPRIATE REGISTRATION INFORMATION FOR SPACE AND PLACE -->
+
+<!--
 <p style="text-align:center; font-size:1.35em; font-weight: bold">Canadian Data Curation Forum</p>
 <p style="text-align:center; font-size:1.15em">October 16-18, 2019</p>
 <p style="text-align:center; font-size:1.15em">Hamilton, ON</p>
+-->
 
-Registration has now closed. Thank you to all who registered. We look forward to seeing you in October.
+<!-- Registration has now closed. Thank you to all who registered. We look forward to seeing you in October. -->
 
 <!---
 # Call for Applications
