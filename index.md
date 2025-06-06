@@ -2,27 +2,30 @@
 layout: default
 ---
 
-<h1 class="post-title">Canadian Data Curation Forum</h1>
+<h1 class="post-title">Space and Place Conference</h1>
 <br />
 
-The Canadian Association of Research Libraries’ Portage Network in collaboration with McMaster University Library hosted the SSHRC-funded Canadian Data Curation Forum at McMaster University in Hamilton from <strong>October 16 to 18, 2019</strong>.  
+McMaster University Libraries, in partnership with Hamilton Public Library, are excited to announce the inaugural Space and Place conference, taking place on **Friday, October 17, 2025**, at Hamilton Public Library's Central Branch and McMaster University's downtown campus at 1 James Street North.  
 
-The goal of the Forum was to establish a national Community of Practice that will catalyze the development/adoption of data curation standards, practices, tools, and skills within and across disciplines and institutions. It brought together library data specialists, research data managers, and discipline and functional experts from a range of institutions and organizations. The Forum integrated a variety of keynote talks, discussions, and workshops to with the objectives of a) facilitating communication and collaboration around data curation practices and standards, and b) developing skill and training resources.
+This gathering will celebrate and embrace the different ways Hamilton’s communities think about their built and natural environment. We hope to explore perspectives that highlight the ways we think about space and place, including mapping, art, storytelling, and local Indigenous knowledge.  
+
+This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.  
+
+_**Stay tuned for more details on submissions, registration, and program highlights!**_
+
 <br /> 
 
-Thank you to all of those who participated in and helped to facilitate the event. 
-
-<br />
-**The final event report with recommendations for a national approach to data curation services in Canada is now available in [English](https://zenodo.org/record/3894935) and [French](https://zenodo.org/record/3895031).**
-
+<!--
 <br />
 **Event materials can be found [here](../materials).**
 
 <br />
 <br />
+-->
 
 ---
-<h1 class="post-title">News</h1>
+<!--
+h1 class="post-title">News</h1>
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -35,3 +38,4 @@ Thank you to all of those who participated in and helped to facilitate the event
 
 {% endfor %}
 </ul>
+-->
