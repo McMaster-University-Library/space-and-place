@@ -4,6 +4,9 @@ title: Forum Materials
 permalink: /materials/
 ---
 
+<!-- REPLACE WITH SPACE AND PLACE CONTENT -->  
+
+<!--
 # Training Event
 The Data Curation [Training Event](../agenda#data-curation-training-event) (Wednesday, 16-Oct to Thursday, 17-Oct) consisted of a series of interactive skill-building workshops intended to develop data curation skills in individuals who are responsible for and/or interested in data curation activities. Workshop materials are below.
 
@@ -76,3 +79,4 @@ The final event report and recommendations for a national approach to data curat
 ---
 
 <br>
+-->
