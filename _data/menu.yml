@@ -1,8 +1,9 @@
+#OLD MENU
 #- title: "About"
 #  href: "/about/"
 
 #- title: "Agenda"
-#  href: "/agenda/" 
+#  href: "/agenda/"
 
 #- title: "Program"
 #  href: "/program/"
@@ -12,3 +13,28 @@
 
 #- title: "Event Materials"
 #  href: "/materials/"
+
+#NEW MENU
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  href: "/about/"
+
+- title: "Agenda"
+  href: "/agenda/"
+
+- title: "Program"
+  href: "/program/"
+
+- title: "Presenters"
+  href: "/presenters/"
+
+- title: "Materials"
+  href: "/materials/"
+
+- title: "Local"
+  href: "/local/"
+
+- title: "Register"
+  href: "/register/"

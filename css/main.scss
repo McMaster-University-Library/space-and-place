@@ -13,17 +13,17 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #0077CC;
+$text-color:       #333333;
+$background-color: #ffffff;
+$brand-color:      #1f3d7d;
 // $gameday-sky: #109dc0;
-$clemson-blue:      #1f3d7d;
-$clemson-orange:    #f29d23;
+$clemson-blue:     #1f3d7d;
+$clemson-orange:   #f29d23;
 
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #666666;
+$grey-color-light: #f5f5f5;
+$grey-color-dark:  #333333;
 
 
 // Width of the content area
@@ -50,11 +50,6 @@ $on-laptop:        950px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "header",
-	"mobile-header",
-        "base",
-        "layout",
-        "syntax-highlighting",
-	"fancy-image"
-;
+@import "mcmaster.scss";
+    
+      
