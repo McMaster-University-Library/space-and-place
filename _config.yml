@@ -20,10 +20,10 @@ defaults:
 # Other options
 excerpt_separator: "<!--more-->"
 
-# SEO stuff
+# SEO uff
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
 
 exclude:
-- _site/
+  - _site/

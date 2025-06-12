@@ -1,0 +1,271 @@
+// McMaster University Website Styles (guessing based on mac site)
+
+
+$mcmaster-orange: #edb056;
+$mcmaster-maroon: #6f083c; 
+$mcmaster-white: #ffffff;
+$mcmaster-dark-grey: #333333;
+$mcmaster-light-gray: #f5f5f5;
+
+// Typography
+.mcmaster-typography {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+        color: $mcmaster-maroon;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 1.25rem;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        line-height: 1.6;
+        margin-bottom: 1rem;
+    }
+}
+
+// Links
+.mcmaster-links {
+    a {
+        color: $mcmaster-maroon;
+        text-decoration: none;
+        transition: color 0.2s ease;
+
+        &:hover {
+            color: $mcmaster-orange;
+            text-decoration: none;
+        }
+    }
+}
+
+// Layout
+.mcmaster-layout {
+    background-color: $mcmaster-white;
+    color: $mcmaster-dark-grey;
+
+    .wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+    }
+
+    .page-content {
+        padding: 2rem 0;
+    }
+}
+
+// Buttons
+.mcmaster-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: $mcmaster-maroon;
+    color: $mcmaster-white;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+        background-color: $mcmaster-orange;
+        color: $mcmaster-white;
+    }
+}
+
+// Cards
+.mcmaster-card {
+    background-color: $mcmaster-white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+
+    h3 {
+        color: $mcmaster-maroon;
+        margin-top: 0;
+    }
+}
+
+// Navigation styles
+body .mcmaster-nav {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1000 !important;
+    background-color: $mcmaster-maroon !important;
+    padding: 10px 0 !important;
+    border-bottom: 3px solid $mcmaster-orange !important;
+
+    .nav-menu {
+        width: 100% !important;
+        max-width: 1200px !important;
+        margin: 0 auto !important;
+        padding: 0 1rem !important;
+        background-color: transparent !important;
+
+        ul {
+            list-style: none !important;
+            margin: 0 !important;
+            padding: 0 !important;
+            display: flex !important;
+            flex-direction: row !important;
+            justify-content: center !important;
+            align-items: center !important;
+            gap: 10px !important;
+            text-align: center !important;
+            background-color: transparent !important;
+        }
+
+        li {
+            margin: 0 !important;
+            padding: 0 !important;
+            display: inline-block !important;
+            background-color: transparent !important;
+        }
+
+        .nav-link {
+            display: inline-block !important;
+            background-color: $mcmaster-maroon !important;
+            border: 1px solid $mcmaster-maroon !important;
+            border-radius: 4px !important;
+            color: white !important;
+            text-decoration: none !important;
+            padding: 8px 20px !important;
+            font-weight: 500 !important;
+            transition: all 0.2s ease !important;
+            text-transform: uppercase !important;
+            font-size: 0.9rem !important;
+            letter-spacing: 0.5px !important;
+            text-align: center !important;
+            min-width: 100px !important;
+            
+            &:hover {
+                background-color: lighten($mcmaster-maroon, 2.5%) !important;
+                border-color: rgba(255, 255, 255, 0.3) !important;
+                color: white !important;
+                text-decoration: underline !important;
+            }
+        }
+
+        @media (max-width: 768px) {
+            ul {
+                flex-direction: column !important;
+                gap: 5px !important;
+            }
+
+            li {
+                width: 100% !important;
+            }
+
+            .nav-link {
+                width: 100% !important;
+                min-width: auto !important;
+            }
+        }
+    }
+}
+
+// Add padding to body to account for fixed header
+body {
+    padding-top: 70px !important;
+}
+
+// Footer
+.mcmaster-footer {
+    background-color: $mcmaster-light-gray;
+    padding: 2rem 0;
+    margin-top: 3rem;
+
+    a {
+        color: $mcmaster-maroon;
+        
+        &:hover {
+            color: $mcmaster-orange;
+        }
+    }
+}
+
+// Home page header
+.home-header {
+    position: relative;
+    width: 100%;
+    margin-bottom: 2rem;
+    padding: 0;
+
+    .logo-container {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        z-index: 2;
+        background-color: rgba(255, 255, 255, 0.5);
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        
+        img {
+            max-width: 200px;
+            height: auto;
+            background-color: transparent;
+            mix-blend-mode: multiply;
+        }
+    }
+
+    .image-box {
+        width: 100%;
+        min-height: 400px;
+        max-height: 600px;
+        background-color: $mcmaster-light-gray;
+        border: 1px solid black;
+        border-radius: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: $mcmaster-maroon;
+        font-style: italic;
+        overflow: hidden;
+        
+        img {
+            width: 100%;
+            height: 200%;
+            object-fit: cover;
+            margin-top: -30%;
+            
+        }
+    }
+}
+
+.title-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 2rem;
+
+    .title-content {
+        flex: 1;
+    }
+
+    .image-box {
+        flex: 0 0 300px;
+        min-height: 200px;
+        background-color: $mcmaster-light-gray;
+        border: 2px dashed $mcmaster-maroon;
+        border-radius: 8px;
+    }
+} 

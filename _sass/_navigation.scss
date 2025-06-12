@@ -1,0 +1,68 @@
+/* Navigation Styles */
+.mcmaster-nav {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 9999 !important;
+    background-color: #6a1a41 !important; // McMaster maroon
+    outline: none !important;
+    border: none !important;
+}
+
+.nav-menu {
+    width: 100% !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 10px !important;
+    outline: none !important;
+    border: none !important;
+    background-color: #6a1a41 !important; // McMaster maroon
+}
+
+.nav-menu ul {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 10px !important;
+    outline: none !important;
+    border: none !important;
+    background-color: #6a1a41 !important; // McMaster maroon
+}
+
+.nav-menu li {
+    margin: 0 !important;
+    padding: 0 !important;
+    outline: none !important;
+    border: none !important;
+    background-color: #6a1a41 !important; // McMaster maroon
+}
+
+.nav-menu .nav-link {
+    display: inline-block !important;
+    background-color: #6a1a41 !important; // McMaster maroon
+    color: white !important;
+    padding: 10px 20px !important;
+    text-decoration: none !important;
+    border-radius: 4px !important;
+    transition: all 0.2s ease !important;
+    text-transform: uppercase !important;
+    font-size: 0.9rem !important;
+    letter-spacing: 0.5px !important;
+    min-width: 100px !important;
+    outline: none !important;
+    border: none !important;
+    font-weight: 500 !important;
+
+    &:hover {
+        background-color: #8a2a61 !important; // Lighter maroon for hover
+    }
+}
+
+body {
+    padding-top: 70px !important;
+} 
