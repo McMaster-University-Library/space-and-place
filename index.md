@@ -6,9 +6,10 @@ layout: default
     <div class="logo-container">
         <img src="/assets/images/mcmaster-logo-and-name.png" alt="McMaster University Logo">
     </div>
-    <div class="image-box">
+    <div class="image-box" style="position: relative; ">
         <img src="/assets/images/Central-Library-img-2.webp" alt="Central Library">
     </div>
+    
 </div>
 
 <h1 class="post-title">Space and Place Conference</h1>
@@ -22,15 +23,9 @@ This event is dedicated to fellowship amongst scholars, practitioners, artists, 
 
 _**Stay tuned for more details on submissions, registration, and program highlights!**_
 
-<br />
-
 <!--
-<br />
-**Event materials can be found [here](../materials).**
 
-<br />
-<br />
--->
+</div>
 
 ---
 

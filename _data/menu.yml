@@ -17,24 +17,23 @@
 #NEW MENU
 - title: "Home"
   href: "/"
+#- title: "About"
+#  href: "/about/"
 
-- title: "About"
-  href: "/about/"
+#- title: "Agenda"
+#  href: "/agenda/"
 
-- title: "Agenda"
-  href: "/agenda/"
+#- title: "Program"
+#  href: "/program/"
 
-- title: "Program"
-  href: "/program/"
+#- title: "Presenters"
+#  href: "/presenters/"
 
-- title: "Presenters"
-  href: "/presenters/"
+#- title: "Materials"
+#  href: "/materials/"
 
-- title: "Materials"
-  href: "/materials/"
+#- title: "Local"
+#  href: "/local/"
 
-- title: "Local"
-  href: "/local/"
-
-- title: "Register"
-  href: "/register/"
+#- title: "Register"
+#  href: "/register/"
