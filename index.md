@@ -10,7 +10,7 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
         -->
     </div>
     <div class="image-box" style="position: relative; ">
-        <img src="{{ '/assets/images/Central-Library-img-2.webp' | relative_url }}" alt="Central Library">
+        <img src="/assets/images/Central-Library-img-2.webp" alt="Central Library">
     </div>
     
 </div>
