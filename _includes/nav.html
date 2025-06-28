@@ -3,7 +3,9 @@
     <ul>
       {% for item in site.data.menu %}
       <li>
-        <a href="{{ item.href }}" class="nav-link">{{ item.title }}</a>
+        <a href="{{ site.baseurl }}{{ item.href }}" class="nav-link"
+          >{{ item.title }}</a
+        >
       </li>
       {% endfor %}
     </ul>

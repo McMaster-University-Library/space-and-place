@@ -6,11 +6,11 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 
 <div class="home-header">
     <div class="logo-container">
-        <img src="/assets/images/mcmaster-logo-and-name.png" alt="McMaster University Logo" style="display: none"> <!-- hidden
+        <img src="{{ site.baseurl }}/assets/images/mcmaster-logo-and-name.png" alt="McMaster University Logo" style="display: none"> <!-- hidden
         -->
     </div>
     <div class="image-box" style="position: relative; ">
-        <img src="{{ '/assets/images/Central-Library-img-2.webp' | relative_url }}" alt="Central Library">
+        <img src="{{ site.baseurl }}/assets/images/Central-Library-img-2.webp" alt="Central Library"> 
     </div>
     
 </div>
