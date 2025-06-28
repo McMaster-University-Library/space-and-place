@@ -203,7 +203,7 @@ body {
 .mcmaster-footer {
     // background-color: $mcmaster-light-gray;
     // padding: 2rem 0;
-    // margin-top: 3rem;
+    // margin-top: 3rem;   //uncomment to bring back footer
     background-color: transparent !important;
     border: none !important;
     padding: 0 !important;
@@ -231,10 +231,10 @@ body {
         top: 20px;
         left: 20px;
         z-index: 2;
-        background-color: rgba(255, 255, 255, 0.5);
+        //background-color: rgba(255, 255, 255, 0.5); hidden
         padding: 15px;
         border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        //box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); hidden
         
         img {
             max-width: 200px;

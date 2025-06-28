@@ -17,6 +17,14 @@
 #NEW MENU
 - title: "Home"
   href: "/"
+
+- title: "Call for Proposals"
+  href: "/call-for-proposals/"
+# - title: "Register"
+#   href: "/register/"
+
+# - title: "Local"
+#   href: "/local/"
 #- title: "About"
 #  href: "/about/"
 
