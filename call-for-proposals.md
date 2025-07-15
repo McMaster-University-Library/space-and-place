@@ -81,4 +81,4 @@ Deadline: Friday, August 15th
 
 Questions?
 
-Feel free to contact Saman Goudarzi and Christine Homuth at mapref@mcmaster.ca for more information or to discuss your idea before submitting.
+Feel free to contact Saman Goudarzi and Christine Homuth at [mapref@mcmaster.ca](mailto:mapref@mcmaster.ca) for more information or to discuss your idea before submitting.
