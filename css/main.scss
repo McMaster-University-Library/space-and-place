@@ -50,6 +50,13 @@ $on-laptop:        950px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "mcmaster.scss";
+@import "mcmaster";
+@import "base";
+@import "layout";
+@import "syntax-highlighting";
+@import "navigation";
+@import "header";
+@import "fancy-image";
+@import "mobile-header";
     
       
