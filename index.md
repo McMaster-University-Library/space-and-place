@@ -19,7 +19,12 @@ This gathering will celebrate and embrace the different ways Hamilton's communit
 
 This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
 
-_**Now accepting submissions for participation! See the [Call for Proposals]({{ site.baseurl }}/call-for-proposals/) for more details and a link to the submission form**_
+<div style="text-align: center; margin: 30px 0; padding: 20px; border: 2px solid #519b9c; border-radius: 8px;">
+<strong style="color: #519b9c; font-size: 1.2em;"> Now accepting submissions for participation! </strong>
+<br>
+<br>
+Visit the <a href="{{ site.baseurl }}/call-for-proposals/" style="color: #519b9c; text-decoration: underline;">Call for Proposals</a> page for more details and submission form
+</div>
 
 <!--
 
