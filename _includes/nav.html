@@ -1,6 +1,13 @@
+<script>
+  function toggleMenu() {
+    document.getElementById("nav-list").classList.toggle("active");
+  }
+</script>
+
 <nav class="mcmaster-nav">
+  <button class="menu-toggle" onclick="toggleMenu()">☰</button>
   <div class="nav-menu">
-    <ul>
+    <ul id="nav-list">
       {% for item in site.data.menu %}
       <li>
         <a href="{{ site.baseurl }}{{ item.href }}" class="nav-link"
