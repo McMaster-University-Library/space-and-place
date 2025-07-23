@@ -387,15 +387,13 @@ body {
 .home-header {
     position: relative !important;
     width: 100% !important;  //control width of banner 
-    margin: -70px 0 2rem 0 !important;  // Remove negative left margin
+    margin: 30px 0 2rem 0 !important;  // top right bottom left
     left: 0 !important;  // Align to the left
     padding: 0 !important;
-    margin-top: 20px !important;
     z-index: 1 !important;
     box-sizing: border-box !important;
 
     @media (max-width: 768px) {
-        width: 100% !important;
         margin: 0 0 1rem 0 !important;
     }
 
@@ -504,6 +502,34 @@ body {
     }
 }
 
+.submissions-box2 {
+    padding:30px !important;
+    position: relative !important;
+    width: 100% !important;
+    text-align: center !important;
+    box-sizing: border-box !important;
+    border: 2px solid $blue !important;
+    border-radius: 8px !important;
+    background-color: white !important;
+    //margin: 1rem 0 !important; //change to alter white box positioning in smaller cases
+
+    strong {
+        color: $blue !important;
+        font-size: 1.4em !important;
+        display: block !important;
+        margin-bottom: 1rem !important;
+    }
+
+    a {
+        color: $blue !important;
+        text-decoration: underline !important;
+        
+        &:hover {
+            color: darken($blue, 10%) !important;
+        }
+    }
+}
+
 html, body {
     overflow-x: hidden !important;
     width: 100% !important;
@@ -518,3 +544,88 @@ html, body {
     overflow-x: hidden !important;
     box-sizing: border-box !important;
 }
+
+
+//1)
+
+//Overlay that covers the entire screen 
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6); //transparencey control and colour
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; //max z-index to cover everything
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.5s ease;
+}
+  
+  // Make it visible when `.show` is added 
+  .popup-overlay.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  
+  //Centered box 
+  .popup-box {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 200px;
+    width: 90%;
+    position: relative;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  }
+  
+  // Close button styling
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+
+
+  //2)
+
+  .image-popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75); /* semi-transparent black */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.5s ease;
+  }
+  
+  .image-popup-overlay.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  
+  .popup-image {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  

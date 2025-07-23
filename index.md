@@ -11,25 +11,62 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
         </div>
     </div>
 
-    <h1 class="post-title">Space and Place Conference</h1>
+<h1 class="post-title">Space and Place Conference</h1>
 
-    <p>
-        McMaster University Libraries, in partnership with Hamilton Public Library and McMaster University's Office of Community Engagement, are excited to announce the inaugural Space and Place conference, taking place on <strong>Friday, October 17, 2025</strong>, at
-        <a href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
-        <a href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
-    </p>
+<p>
+    McMaster University Libraries, in partnership with Hamilton Public Library and McMaster University's Office of Community Engagement, are excited to announce the inaugural Space and Place conference, taking place on <strong>Friday, October 17, 2025</strong>, at
+    <a href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
+    <a href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
+</p>
 
-    <p>
-        This gathering will celebrate and embrace the different ways Hamilton's communities think about their built and natural environment. We hope to explore perspectives that highlight the ways we think about space and place, including mapping, art, storytelling, and local Indigenous knowledge.
-    </p>
+<p>
+    This gathering will celebrate and embrace the different ways Hamilton's communities think about their built and natural environment. We hope to explore perspectives that highlight the ways we think about space and place, including mapping, art, storytelling, and local Indigenous knowledge.
+</p>
 
-    <p>
-        This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
-    </p>
+<p>
+    This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
+</p>
 
-    <div class="submissions-box">
-        <strong>Now accepting submissions for participation!</strong>
-        Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
+<div class="submissions-box">
+    <strong>Now accepting submissions for participation!</strong>
+    Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
+</div>
+
+<div id="popup" class="popup-overlay show">
+    <div class="popup-box">
+        <!-- <button class="close-btn" onclick="closePopup()">×</button>  no need for button--> 
+        <div class="submissions-box2">
+            <strong>Now accepting submissions for participation!</strong>
+            Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
+        </div>
     </div>
+</div>
 
+<script>
+  function closePopup() { //function to close removes show css which contains opactiy =1
+    const popup = document.getElementById("popup");
+    popup.classList.remove("show");
+    setTimeout(() => {
+      popup.style.display = "none";
+    }, 500);
+  }
+
+  window.onload = function () { //should load at start
+    const popup = document.getElementById("welcome-popup");
+    if (popup && !sessionStorage.getItem("welcomeShown")) {
+      popup.classList.add("show");
+      sessionStorage.setItem("welcomeShown", "true");
+    }
+
+    const popupOverlay = document.getElementById("popup");
+    if (popupOverlay) {
+      popupOverlay.addEventListener("click", function (e) { 
+        const popupBox = popupOverlay.querySelector(".popup-box"); //whole white box
+        if (!popupBox.contains(e.target)) { //check if click is in boxes resgion
+          closePopup();
+        }
+      });
+    }
+  };
+</script>
 </div>

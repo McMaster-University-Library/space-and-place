@@ -5,20 +5,18 @@ permalink: /call-for-proposals/
 submission_form_link: "https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcndTJ3da0tFKsa29IOLyRPVUMEkyUzhLTEhPMk85SzZYMFZIOTdZT1RBQSQlQCN0PWcu&route=shorturl"
 ---
 
-<div style="text-align: left;">
-<strong>Date:</strong> Friday, October 17, 2025<br>
+<div class="content-container">
 
+<strong>Date:</strong> Friday, October 17, 2025s<br>
 <strong>Location:</strong> Hamilton Public Library's Central Library McMasterUniversity's One James North<br>
 <strong>Hosted by:</strong> McMaster University Libraries in partnership with Hamilton Public Library and McMaster University’s Office of Community Engagement
-
-</div>
-<br>
+<br><br>
 We are excited to invite proposals that center the greater Hamilton region and celebrate its complexity, creativity, and communities at the inaugural Space and Place Conference. This one-day gathering is dedicated to showcasing and celebrating research, creative work, and community engagement centered on Hamilton’s diverse environments — built, natural, imagined, and remembered.
-
+<br><br>
 We welcome contributions that explore storytelling, mapping, art, lived experience, Indigenous knowledge, and other ways of knowing that often exist beyond conventional academic frameworks — in essence, work that reflects and celebrates the geographies where we live, work, and/or study.
+<br><br>
 
 <h2 style="text-align: left; color: black; font-size: 2em;">We welcome proposals from:</h2>
-
 <ul style="margin-left: 40px;">
 <li>Community members and organizers</li>
 
@@ -34,6 +32,7 @@ We welcome contributions that explore storytelling, mapping, art, lived experien
 </ul>
 
 For this call for proposals, we invite contributors to think about Hamilton and its surrounding regions through a critical and creative lens. We strongly encourage all perspectives including those that challenge gendered, racialized, and other marginalized boundaries in their work.
+<br><br>
 
 <h2 style="text-align: left; color: black; font-size: 2em;">Suggested themes include (but are not limited to):</h2>
 
@@ -55,7 +54,9 @@ For this call for proposals, we invite contributors to think about Hamilton and 
 <li>Ultimately: let's talk about the greater Hamilton region</li>
 </ul>
 
-We invite innovative and alternative forms of presentation, discussion, and engagement. Both scholarly and creative submissions are welcome.
+We invite innovative and alternative forms of presentation, discussion, and engagement. Both scholarly and creative missions are welcome.
+
+<br><br>
 
 <h2 style="text-align: left; color: black; font-size: 2em;">Presentation formats may include:</h2>
 
@@ -81,12 +82,16 @@ We invite innovative and alternative forms of presentation, discussion, and enga
 
 <h2 style="text-align: left; color: black; font-size: 2em;">How to submit:</h2>
 
-Please submit a brief proposal (approx. 200–300 words) via our [submission form]({{page.submission_form_link}}).
+<p>
+  Please submit a brief proposal (approx. 200–300 words) via our 
+  <a href="{{page.submission_form_link}}">submission form</a>.
+</p>
 
-Deadline: Friday, August 15th
-<br>
-<br>
-<br>
-**_Questions?_**
+<strong>Deadline:</strong> Friday, August 15th.
+<br><br><br>
+<strong>Questions?</strong>
 
-Feel free to contact Saman Goudarzi and Christine Homuth at [mapref@mcmaster.ca](mailto:mapref@mcmaster.ca) for more information or to discuss your idea before submitting.
+Feel free to contact Saman Goudarzi and Christine Homuth at
+<a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a> for more information or to discuss your idea before submitting.
+
+</div>
