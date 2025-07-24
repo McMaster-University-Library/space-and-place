@@ -7,13 +7,13 @@ submission_form_link: "https://forms.office.com/pages/responsepage.aspx?id=B2M3R
 
 <div class="content-container">
 
-<strong>Date:</strong> Friday, October 17, 2025s<br>
-<strong>Location:</strong> Hamilton Public Library's Central Library McMasterUniversity's One James North<br>
+<strong>Date:</strong> Friday, October 17, 2025<br>
+<strong>Location:</strong> Hamilton Public Library Central Library McMaster University's One James North<br>
 <strong>Hosted by:</strong> McMaster University Libraries in partnership with Hamilton Public Library and McMaster University’s Office of Community Engagement
 <br><br>
 We are excited to invite proposals that center the greater Hamilton region and celebrate its complexity, creativity, and communities at the inaugural Space and Place Conference. This one-day gathering is dedicated to showcasing and celebrating research, creative work, and community engagement centered on Hamilton’s diverse environments — built, natural, imagined, and remembered.
 <br><br>
-We welcome contributions that explore storytelling, mapping, art, lived experience, Indigenous knowledge, and other ways of knowing that often exist beyond conventional academic frameworks — in essence, work that reflects and celebrates the geographies where we live, work, and/or study.
+We welcome contributions that explore storytelling, mapping, art, lived experience, Indigenous knowledge, and other ways of knowing that often exist beyond conventional academic frameworks — in essence, work that reflects and celebrates the geographies where we live, work, and study.
 <br><br>
 
 <h2 style="text-align: left; color: black; font-size: 2em;">We welcome proposals from:</h2>
