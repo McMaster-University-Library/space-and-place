@@ -611,11 +611,12 @@ html, body {
     font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    &:hover {
+        background: lighten($blue, 5%);
+        color: white;
+    }
   }
-  close-btn:hover {
-    background-color: $blue;
-    color: white;
-}
+ 
 
 
 
