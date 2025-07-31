@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-<div class="post">
 
+<div class="post" lang="en">
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} 
-    <!--{% if page.categories %} in {% for cat in page.categories %}
+    <p class="post-meta">
+      Posted on {{ page.date | date: "%B %-d, %Y" }}
+      <!--{% if page.categories %} in {% for cat in page.categories %}
     <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
   {% endfor %}
 {% endif %}-->
-</p>
+    </p>
   </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+  <article class="post-content">{{ content }}</article>
 </div>

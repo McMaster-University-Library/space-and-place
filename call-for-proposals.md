@@ -5,7 +5,7 @@ permalink: /call-for-proposals/
 submission_form_link: "https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcndTJ3da0tFKsa29IOLyRPVUMEkyUzhLTEhPMk85SzZYMFZIOTdZT1RBQSQlQCN0PWcu&route=shorturl"
 ---
 
-<div class="content-container">
+<div class="content-container" role="main">
 
 <strong>Date:</strong> Friday, October 17, 2025<br>
 <strong>Location:</strong> Hamilton Public Library Central Library McMaster University's One James North<br>

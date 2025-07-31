@@ -11,12 +11,14 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
         </div>
     </div>
 
-<h1 class="post-title">Space and Place Conference</h1>
+<h1 class="post-title" role="banner">Space and Place Conference</h1>
+
+<main>
 
 <p>
     McMaster University Libraries, in partnership with Hamilton Public Library and McMaster University's Office of Community Engagement, are excited to announce the inaugural Space and Place conference, taking place on <strong>Friday, October 17, 2025</strong>, at
-    <a href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
-    <a href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
+    <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
+    <a style="text-decoration: underline;" href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
 </p>
 
 <p>
@@ -26,6 +28,7 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 <p>
     This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
 </p>
+</main>
 
 <div class="submissions-box">
     <strong>Now accepting submissions for participation!</strong>
@@ -33,13 +36,14 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 </div>
 
 <div id="popup" class="popup-overlay show">
-    <div class="popup-box">
+  <div class="popup-box">
         <!-- <button class="close-btn" onclick="closePopup()">×</button>  no need for button--> 
-        <div class="submissions-box2">
-            <strong>Now accepting submissions for participation!</strong>
-            Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
-        </div>
+    <div class="submissions-box2">
+      <strong>Now accepting submissions for participation!</strong>
+      Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
+      <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
+  </div>
 </div>
 
 <script>
@@ -51,22 +55,30 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
     }, 500);
   }
 
-  window.onload = function () { //should load at start
-    const popup = document.getElementById("welcome-popup");
-    if (popup && !sessionStorage.getItem("welcomeShown")) {
-      popup.classList.add("show");
-      sessionStorage.setItem("welcomeShown", "true");
-    }
+ window.onload = function () {
+  const popup = document.getElementById("popup");
 
-    const popupOverlay = document.getElementById("popup");
-    if (popupOverlay) {
-      popupOverlay.addEventListener("click", function (e) { 
-        const popupBox = popupOverlay.querySelector(".popup-box"); //whole white box
-        if (!popupBox.contains(e.target)) { //check if click is in boxes resgion
-          closePopup();
-        }
-      });
-    }
-  };
+  if (popup && !sessionStorage.getItem("welcomeShown")) {
+    popup.classList.add("show");
+    sessionStorage.setItem("welcomeShown", "true");
+  }
+
+  if (popup) {
+    popup.addEventListener("click", function (e) {
+      const popupBox = popup.querySelector(".popup-box");
+      if (!popupBox.contains(e.target)) {
+        closePopup();
+      }
+    });
+
+    // Listen for Enter or Space key to close the popup
+    document.addEventListener("keydown", function (e) {
+      const key = e.key || e.code;
+      if ((key === "Enter" || key === " " || key === "Spacebar") && popup.classList.contains("show")) {
+        closePopup();
+      }
+    });
+  }
+};
 </script>
 </div>
