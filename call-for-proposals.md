@@ -87,7 +87,7 @@ We invite innovative and alternative forms of presentation, discussion, and enga
   <a href="{{page.submission_form_link}}">submission form</a>.
 </p>
 
-<strong>Deadline:</strong> Friday, August 15th.
+<strong>Deadline:</strong> Tuesday, September 2nd.
 <br><br><br>
 <strong>Questions?</strong>
 
