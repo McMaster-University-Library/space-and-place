@@ -32,11 +32,12 @@
   href: "/call-for-proposals/"
 
 - title: "About"
+- title: "About"
   submenu:
     - title: "Event Info"
-      href: "/about/event-Info/"
+      href: "{{ site.baseurl }}/about/event-info/"
     - title: "Contributors/Supporters"
-      href: "/about/contributors-supporters/"
+      href: "{{ site.baseurl }}/about/contributors-supporters/"
 # - title: "Register"
 #   href: "/register/"
 
