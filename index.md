@@ -7,14 +7,19 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 <div class="content-container">
     <div class="home-header">
         <div class="image-box" style="position: relative;">
+          <figure style="text-align: center;">
             <img src="{{ site.baseurl }}/assets/images/S&P.png" alt="Central Library"> 
+              
+            <figcaption style="font-size: 0.5rem; color: #666;">
+            Artwork by: Tram Nguyen
+            </figcaption>
+          </figure>
         </div>
     </div>
 
 <h1 class="post-title" role="banner">Space and Place Conference</h1>
-
-<main>
-<p>
+<div>
+    <p>
     McMaster University Libraries, in partnership with Hamilton Public Library and McMaster University's Office of Community Engagement, are excited to announce the inaugural Space and Place conference, taking place on <strong>Friday, October 17, 2025</strong>, at
     <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
     <a style="text-decoration: underline;" href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
@@ -27,8 +32,7 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 <p>
     This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
 </p>
-</main>
-
+</div>
 <div class="submissions-box">
     <strong>Now accepting submissions for participation!</strong>
     Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.

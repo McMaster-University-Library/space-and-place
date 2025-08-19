@@ -4,7 +4,48 @@
   }
 </script>
 
-<nav class="mcmaster-nav">
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Toggle dropdown on click for all screen sizes, and prevent navigation for parent
+    document.querySelectorAll(".dropdown > .nav-link").forEach((link) => {
+      link.setAttribute("role", "button");
+      link.setAttribute("aria-haspopup", "true");
+      link.setAttribute("aria-expanded", "false");
+      link.addEventListener("click", (e) => {
+        e.preventDefault();
+        const parent = link.parentElement;
+        const isOpen = parent.classList.contains("open");
+
+        // Close any other open dropdowns
+        document.querySelectorAll(".dropdown.open").forEach((drop) => {
+          if (drop !== parent) {
+            drop.classList.remove("open");
+            const toggle = drop.querySelector(":scope > .nav-link");
+            if (toggle) toggle.setAttribute("aria-expanded", "false");
+          }
+        });
+
+        parent.classList.toggle("open", !isOpen);
+        link.setAttribute("aria-expanded", String(!isOpen));
+      });
+    });
+
+    // Click outside to close any open dropdown
+    document.addEventListener("click", (e) => {
+      const isInsideDropdown =
+        e.target.closest && e.target.closest(".dropdown");
+      if (!isInsideDropdown) {
+        document.querySelectorAll(".dropdown.open").forEach((drop) => {
+          drop.classList.remove("open");
+          const toggle = drop.querySelector(":scope > .nav-link");
+          if (toggle) toggle.setAttribute("aria-expanded", "false");
+        });
+      }
+    });
+  });
+</script>
+
+<!-- <nav class="mcmaster-nav">
   <button class="menu-toggle" onclick="toggleMenu()">☰</button>
   <div class="nav-menu">
     <ul id="nav-list">
@@ -15,6 +56,33 @@
         >
       </li>
       {% endfor %}
+    </ul>
+  </div>
+</nav> -->
+<nav class="mcmaster-nav">
+  <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+  <div class="nav-menu">
+    <ul id="nav-list">
+      {% for item in site.data.menu %} {% if item.submenu %}
+      <li class="dropdown">
+        <a href="#" class="nav-link dropdown-toggle"> {{ item.title }} ▾ </a>
+        <ul class="dropdown-menu">
+          {% for subitem in item.submenu %}
+          <li>
+            <a href="{{ site.baseurl }}{{ subitem.href }}" class="nav-link">
+              {{ subitem.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% else %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.href }}" class="nav-link">
+          {{ item.title }}
+        </a>
+      </li>
+      {% endif %} {% endfor %}
     </ul>
   </div>
 </nav>

@@ -14,12 +14,29 @@
 #- title: "Event Materials"
 #  href: "/materials/"
 
-#NEW MENU
+# #NEW MENU
+
+# - title: "Home"
+#   href: "/"
+
+# - title: "Call for Proposals"
+#   href: "/call-for-proposals/"
+
+# - title: "About"
+#   href: "/about/"
+
 - title: "Home"
   href: "/"
 
 - title: "Call for Proposals"
   href: "/call-for-proposals/"
+
+- title: "About"
+  submenu:
+    - title: "Event Info"
+      href: "/about/event-Info/"
+    - title: "Contributors/Supporters"
+      href: "/about/contributors-supporters/"
 # - title: "Register"
 #   href: "/register/"
 

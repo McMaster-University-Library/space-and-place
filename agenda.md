@@ -30,11 +30,11 @@ permalink: /agenda/
   <thead>
     <tr>
 	<th class="time">Time</th>
-	<th class="room">Room</th>    
+	<th class="room">Room</th>
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
-  </thead>	
+  </thead>
 <tbody>
     <tr>
 	<td>0815 - 0845</td>
@@ -44,19 +44,19 @@ permalink: /agenda/
     </tr>
     <tr>
         <td>0845 - 0915</td>
-	<td>OJN 212</td>	    
+	<td>OJN 212</td>
         <td>Welcome & Introduction</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
     	<td>0915 - 1200</td>
-	<td>OJN 111</td>	    
+	<td>OJN 111</td>
     	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
     	<td>John Simpson</td>
     </tr>
     <tr>
     	<td></td>
-	<td>OJN 212</td>	   
+	<td>OJN 212</td>
     	<td>Workshop 1b: <a href="../program#workshop-1b-making-ethical-and-effective-data-management-work-for-you">Making Ethical and Effective Data Management Work for You!</a></td>
     	<td>Chandra Kavanagh & James Doiron</td>
     </tr>
@@ -66,13 +66,13 @@ permalink: /agenda/
 	 <td><strong>Lunch (provided)</strong></td>
 	 <td></td>
     </tr>
-    <tr>	
+    <tr>
 	<td>1300 - 1545</td>
-	<td>OJN 111</td>	    
+	<td>OJN 111</td>
     	<td>Workshop 2a: <a href="../program#workshop-2a-data-wrangling-and-versioning-with-openrefine-and-github">Data Wrangling and Versioning with OpenRefine and Github</a></td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
-    <tr>	
+    <tr>
 	<td></td>
 	<td>OJN 212</td>
     	<td>Workshop 2b: <a href="../program#workshop-2b-curating-data-for-reproducibility">Curating Data for Reproducibility</a></td>
@@ -80,14 +80,14 @@ permalink: /agenda/
     </tr>
     <tr>
         <td>1545 - 1600</td>
-	<td>OJN 212</td>	    
+	<td>OJN 212</td>
         <td>Day 1 Wrap-up</td>
 	<td></td>
-    </tr>	
+    </tr>
 </tbody>
 </table>
-    
-    
+
+
 <h3 id="day-2">Day 2: Thursday, 17-October, 2019</h3>
 
 
@@ -95,11 +95,11 @@ permalink: /agenda/
   <thead>
     <tr>
 	<th class="time">Time</th>
-	<th class="room">Room</th>    	 
+	<th class="room">Room</th>
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
-  </thead>	
+  </thead>
 <tbody>
     <tr>
 	<td>0830 - 0900</td>
@@ -121,7 +121,7 @@ permalink: /agenda/
     </tr>
     <tr>
 	<td>1145 - 1200</td>
-	<td>OJN 212</td>    
+	<td>OJN 212</td>
 	<td>Wrap-up & Closing Remarks</td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
@@ -141,7 +141,7 @@ permalink: /agenda/
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
-  </thead>	
+  </thead>
 <tbody>
     <tr>
 	<td>1230 - 1300</td>
@@ -168,12 +168,12 @@ permalink: /agenda/
 	 <td><strong>Coffee Break</strong></td>
 	 <td></td>
     </tr>
-    <tr>	
+    <tr>
 	<td>1530 - 1630</td>
     	<td>The Data Curation Network</td>
     	<td>Lisa Johnston & Cynthia Hudson Vitale, Data Curation Network</td>
     </tr>
-    <tr>	
+    <tr>
 	<td>1630 - 1700</td>
     	<td>Day 1 Wrap-up discussion</td>
     	<td>Lee Wilson & Jay Brodeur</td>
@@ -192,7 +192,7 @@ permalink: /agenda/
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
-  </thead>	
+  </thead>
 <tbody>
     <tr>
 	<td>0815 - 0845</td>
@@ -218,13 +218,13 @@ permalink: /agenda/
     	<td>1030 - 1200</td>
     	<td>Breakout Session 1: Conceptualizing a National Approach to Data Curation</td>
     	<td></td>
-    </tr>	
-    <tr>	
+    </tr>
+    <tr>
 	<td>1200 - 1300</td>
 	<td><strong>Lunch</strong></td>
 	    <td></td>
     </tr>
-    <tr>	
+    <tr>
 	<td>1300 - 1430</td>
     	<td>Breakout Session 2: Model Evaluation & Discussion</td>
     	<td></td>
@@ -234,7 +234,7 @@ permalink: /agenda/
 	 <td><strong>Break</strong></td>
 	 <td></td>
     </tr>
-    <tr>	
+    <tr>
 	<td>1445 - 1530</td>
     	<td>Final Discussions and Closing Remarks</td>
     	<td></td>

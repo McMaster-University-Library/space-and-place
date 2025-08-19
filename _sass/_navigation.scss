@@ -13,9 +13,9 @@
       width: 100%;
       max-width: 1200px;
       margin: 0 auto;
-      padding: 0 1rem;
+      padding:  0 1rem;
   
-      ul {
+      > ul {
         list-style: none;
         margin: 0;
         padding: 0;
@@ -41,7 +41,6 @@
         text-transform: uppercase;
         font-size: 0.9rem;
         letter-spacing: 0.5px;
-        min-width: 100px;
         text-align: center;
         background-color: rgba(255, 255, 255, 0.9);
         border: 1px solid rgba(81, 155, 156, 0.95);
@@ -56,23 +55,34 @@
   
     @media (max-width: 768px) {
       .nav-menu {
-        ul {
+        > ul {
           flex-direction: column;
           gap: 5px;
+          padding: 0 1rem; 
+          display: none;
         }
   
         li {
           width: 100%;
           text-align: center;
+          margin-right: 1.5rem;  
+          // padding: 0 1rem;   
         }
   
         .nav-link {
+          // width: 100%;
+          // min-width: auto;
+          overflow: hidden;
+          box-sizing: border-box;
           width: 100%;
-          min-width: auto;
+          // padding: 0 1rem;   
+          // margin-right: 5rem;  
+          background: rgba(255, 255, 255, 0.95);
+          // border-top: 2px solid rgba(41, 92, 117, 1);
         }
       }
     }
-  }
+  
   
 
   body {
@@ -83,3 +93,100 @@
     margin-top: 2rem;
     padding-top: 1rem;
   } 
+
+// Centralized navigation overrides and dropdowns
+
+  .menu-toggle {
+    display: none;
+    font-size: 2rem;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: black;
+    z-index: 1001;
+    margin-left: 1rem;
+  }
+
+  // Dropdown menu styles
+  .dropdown { position: relative; }
+
+  .dropdown-menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    display: none;
+    flex-direction: column;
+    background: #ffffff;
+    border: 1px solid rgba(41, 92, 117, 0.95);
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    min-width: 220px;
+    padding: 8px 0;
+    z-index: 1100;
+    overflow: hidden; // ensure hover backgrounds do not bleed past rounded corners
+
+    // li { list-style: none; width: 100%; background: transparent; }
+
+    .nav-link {
+      display: block;
+      // width: 100% would add padding on top and cause overflow; let width auto include padding
+      width: auto;
+      box-sizing: border-box;
+      text-align: left;
+      text-transform: none;
+      letter-spacing: 0;
+      font-size: 0.95rem;
+      padding: 10px 14px;
+      margin: 0;
+      border: 0;
+      background: transparent;
+      color: black;
+
+      &:hover {
+        background-color: rgba(41, 92, 117, 0.1);
+        color: black;
+        text-decoration: none;
+      }
+    }
+  }
+
+  // Open only when .open is set by JS
+  .dropdown.open > .dropdown-menu { display: flex; }
+
+  // Mobile behavior
+  @media (max-width: 768px) {
+    
+    
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    .menu-toggle { display: block; margin: 0 1rem; }
+
+    // .nav-menu > ul {
+    //   display: none;
+    //   flex-direction: column;
+    //   overflow: hidden;
+    //   box-sizing: border-box;
+    //   width: 100%;
+    //   background: rgba(255, 255, 255, 0.95);
+    //   gap: 5px;
+    // }
+
+    .nav-menu > ul.active { display: flex; }
+    .nav-menu li, .nav-link { width: 100%; text-align: center; }
+    .nav-link { min-width: auto; }
+
+    .dropdown-menu {
+      position: static;
+      // border: 0;
+      box-shadow: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+
+    .dropdown.open > .dropdown-menu { display: flex; }
+  }
+}
