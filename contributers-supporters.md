@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors/Supporters
-permalink: /about/contributors-supporters
+permalink: /contributors-supporters/
 ---
 
 <div class="content-container">

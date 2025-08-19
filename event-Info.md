@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Event Info
-permalink: /about/event-info
+permalink: /event-info/
 ---
 
 <div class="content-container">
