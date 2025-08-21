@@ -86,4 +86,5 @@ hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
 
 <h4>Reporting Concerns </h4>
 <p>Anyone who witnesses or experiences behavior that violates these principles is encouraged to report it to the event organizers. If you prefer to reach out asynchronously, please contact us via email at <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a>.</p>
+<br><br><br>
 </div>
