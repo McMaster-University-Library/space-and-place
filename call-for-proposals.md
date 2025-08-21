@@ -16,7 +16,7 @@ We are excited to invite proposals that center the greater Hamilton region and c
 We welcome contributions that explore storytelling, mapping, art, lived experience, Indigenous knowledge, and other ways of knowing that often exist beyond conventional academic frameworks — in essence, work that reflects and celebrates the geographies where we live, work, and study.
 <br><br>
 
-<h3 style="text-align: left; ">We welcome proposals from:</h3>
+<h2 style="text-align: left; ">We welcome proposals from:</h2>
 <ul style="margin-left: 40px;">
 <li>Community members and organizers</li>
 
@@ -34,7 +34,7 @@ We welcome contributions that explore storytelling, mapping, art, lived experien
 For this call for proposals, we invite contributors to think about Hamilton and its surrounding regions through a critical and creative lens. We strongly encourage all perspectives including those that challenge gendered, racialized, and other marginalized boundaries in their work.
 <br><br>
 
-<h3 style="text-align: left; ">Suggested themes include (but are not limited to):</h3>
+<h2 style="text-align: left; ">Suggested themes include (but are not limited to):</h2>
 
 <ul style="margin-left: 40px;">
 <li>Creative, cultural, or critical mapping of the greater Hamilton region</li>
@@ -58,7 +58,7 @@ We invite innovative and alternative forms of presentation, discussion, and enga
 
 <br><br>
 
-<h3 style="text-align: left; ">Presentation formats may include:</h3>
+<h2 style="text-align: left; ">Presentation formats may include:</h2>
 
 <ul style="margin-left: 40px;">
 <li>Short talks (7 minutes, including questions)</li>
@@ -80,7 +80,7 @@ We invite innovative and alternative forms of presentation, discussion, and enga
 <li>Artist talks (30 minutes, including questions)</li>
 </ul>
 
-<h3 style="text-align: left; ">How to submit:</h3>
+<h2 style="text-align: left; ">How to submit:</h2>
 
 <p>
   Please submit a brief proposal (approx. 200–300 words) via our 

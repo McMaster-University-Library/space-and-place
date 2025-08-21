@@ -28,15 +28,15 @@
 - title: "Home"
   href: "/"
 
-- title: "Call for Proposals"
-  href: "/call-for-proposals/"
-
 - title: "About"
   submenu:
     - title: "Event Info"
       href: "/event-info"
     - title: "Contributors"
       href: "/contributors/"
+
+- title: "Call for Proposals"
+  href: "/call-for-proposals/"
 
 - title: "Participant Info"
   submenu:

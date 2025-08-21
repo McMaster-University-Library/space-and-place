@@ -15,7 +15,7 @@ hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
     <p>
     To support this, we draw on  guiding principles from our sponsoring organizations—including the <a style="text-decoration: underline;" href="{{ page.sherman_center_link }}">Sherman Centre for Digital Scholarship</a> and <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library</a>—to cultivate an enriching environment for all participants. 
     </p>
-    <h4>How We Behave</h4>
+    <h2>How We Behave</h2>
     <p>
     By attending this conference, participants agree to support the agency of their fellow participants, by: 
     </p>
@@ -62,7 +62,7 @@ hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
     staying alert, as Active Bystanders, to the welfare of those around you.
     </li>
     </ul>
-    <h4>How We Don't Behave </h4>
+    <h2>How We Don't Behave </h2>
     <p>
     Harassment, bullying, and intimidation are strictly prohibited in all our spaces. We reserve the right to remove participants who exhibit disruptive behaviour, which includes but is not limited to:  
     </p>
@@ -83,7 +83,6 @@ hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
     Violent threats, incitement to violence, or sustained disruption of events or communications 
     </li>
     </ul>
-
-<h4>Reporting Concerns </h4>
-<p>Anyone who witnesses or experiences behavior that violates these principles is encouraged to report it to the event organizers. If you prefer to reach out asynchronously, please contact us via email at <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a>.</p>
+    <h2>Reporting Concerns </h2>
+    <p>Anyone who witnesses or experiences behavior that violates these principles is encouraged to report it to the event organizers. If you prefer to reach out asynchronously, please contact us via email at <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a>.</p>
 </div>

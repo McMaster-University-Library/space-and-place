@@ -37,12 +37,12 @@ $light-green: #e0e8c3;
     }
 
     h2 {
-        font-size: 2rem;
+        font-size: 1.35rem;
         margin-bottom: 1.25rem;
     }
 
     h3 {
-        font-size: 1.75rem;
+        font-size: 1.0rem;
         margin-bottom: 1rem;
     }
 
@@ -345,9 +345,9 @@ body {
             color: lighten($blue, 40%) !important;
         }
     }
-    h2{
-        font-size: 1.5rem 
-    }
+    // h2{
+    //     font-size: 1.5rem 
+    // }
 }
 
 // Ensure nav bar stays on top

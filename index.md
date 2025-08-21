@@ -10,7 +10,7 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
           <figure style="text-align: center;">
             <img src="{{ site.baseurl }}/assets/images/S&P.png" alt="Central Library"> 
               
-            <figcaption style="font-size: 0.5rem; color: #666;">
+            <figcaption style="font-size: 0.8rem; color: #666;">
             Artwork by: Tram Nguyen
             </figcaption>
           </figure>
