@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Contributors/Supporters
-permalink: /contributors-supporters/
+title: Contributors
+permalink: /contributors/
 ---
 
 <div class="content-container">
     <p>
       The Space and Place conference has been made possible through the collaborative efforts of numerous individuals and the generous support of multiple organizations.
     </p>
-    <h4>Programming Committee</h4>
+    <h4>Conference Co-chairs</h4>
     <ul>
       <li>Saman Goudarzi (co-chair), Lloyd Reeds Map Collection, McMaster University Libraries</li>
       <li>Christine Homuth (co-chair), McMaster University Libraries</li>
+    </ul>
+    <h4>Programming Committee</h4>
+    <ul>
       <li>Erin Aults, William Ready Division of Archives and Research Collections, McMaster University Libraries</li>
       <li>Valeria Flores Zambrano, McMaster University</li>
       <li>Vivek Jadon, McMaster University Libraries</li>
@@ -22,8 +25,6 @@ permalink: /contributors-supporters/
     </ul>
     <h4>Local Arrangements Committee</h4>
     <ul>
-      <li>Saman Goudarzi (co-chair), Lloyd Reeds Map Collection, McMaster University Libraries</li>
-      <li>Christine Homuth (co-chair), McMaster University Libraries</li>
       <li>Valeria Flores Zambrano, McMaster University</li>
       <li>Vivek Jadon, McMaster University Libraries</li>
       <li>Tracey Krause, Health Sciences Library, McMaster University Libraries</li>

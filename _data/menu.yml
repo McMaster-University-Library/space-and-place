@@ -35,8 +35,13 @@
   submenu:
     - title: "Event Info"
       href: "/event-info"
-    - title: "Contributors/Supporters"
-      href: "/contributors-supporters/"
+    - title: "Contributors"
+      href: "/contributors/"
+
+- title: "Participant Info"
+  submenu:
+    - title: "Code of Conduct"
+      href: "/code-of-conduct/"
 # - title: "Register"
 #   href: "/register/"
 

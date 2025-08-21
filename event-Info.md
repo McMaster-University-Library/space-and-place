@@ -2,6 +2,9 @@
 layout: page
 title: Event Info
 permalink: /event-info/
+
+hpl_link: "https://www.google.com/maps/place/Hamilton+Public+Library+-+Central+Library/@43.2591682,-79.8729722,17z/data=!3m1!4b1!4m6!3m5!1s0x882c9b83cff8c4a7:0x3afc884c7eec4970!8m2!3d43.2591643!4d-79.8703973!16s%2Fg%2F1tfq58_k?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=a4f273f2-6651-48ab-967d-a5834a1af46e"
+mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/@43.2572786,-79.8716939,17z/data=!3m2!4b1!5s0x882c9b83994cd1ad:0x7172a94b7544117!4m6!3m5!1s0x882c9b4347d2cf61:0x8ee2e2718bb4c832!8m2!3d43.2572747!4d-79.869119!16s%2Fg%2F11vx6zcfmb?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=c3d2a597-7aca-41af-9c8c-434c6769bcca"
 ---
 
 <div class="content-container">
