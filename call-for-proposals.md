@@ -93,5 +93,5 @@ We invite innovative and alternative forms of presentation, discussion, and enga
 
 Feel free to contact Saman Goudarzi and Christine Homuth at
 <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a> for more information or to discuss your idea before submitting.
-
+<br><br><br>
 </div>
