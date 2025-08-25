@@ -6,6 +6,8 @@ permalink: /code-of-conduct/
 sherman_center_link: "https://scds.ca/code-of-conduct/"
 
 hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
+
+dlf_link: "https://www.diglib.org/about/code-of-conduct/"
 ---
 
 <div class="content-container">
@@ -31,7 +33,7 @@ hpl_link: "https://www.hpl.ca/articles/member-and-service-commitment"
     </li>
     </ul>
     <p>
-    Furthermore, we adopt the Digital Library Federation’s ‘How to Be’ framework, which provides practical guidance for cultivating welcoming, inclusive, and safe environment spaces:  
+    Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}">Digital Library Federation’s ‘How to Be’ framework </a>, which provides practical guidance for cultivating welcoming, inclusive, and safe environment spaces:  
     </p>
     <ul style="margin-left: 40px;">
     <li>
