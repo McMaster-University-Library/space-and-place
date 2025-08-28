@@ -54,7 +54,7 @@ For this call for proposals, we invite contributors to think about Hamilton and 
 <li>Ultimately: let's talk about the greater Hamilton region</li>
 </ul>
 
-We invite innovative and alternative forms of presentation, discussion, and engagement. Both scholarly and creative missions are welcome.
+We invite innovative and alternative forms of presentation, discussion, and engagement. Both scholarly and creative submissions are welcome.
 
 <br><br>
 
