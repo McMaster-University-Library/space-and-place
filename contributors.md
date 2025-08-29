@@ -52,7 +52,7 @@ permalink: /contributors/
       <li>McMaster University Libraries</li>
       <li>Sherman Centre for Digital Scholarship</li>
       <li>Hamilton Public Library</li>
-      <li>McMaster University Office of Community Engagement</li>
+      <li>McMaster University's Office of Community Engagement</li>
     <br><br><br>
     </ul>
 
