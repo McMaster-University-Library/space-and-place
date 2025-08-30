@@ -42,6 +42,17 @@
   submenu:
     - title: "Code of Conduct"
       href: "/code-of-conduct/"
+    # - title: "Getting There"
+    #   href: "/getting-there/"
+    # - title: "Explore Hamilton"
+    #   href: "/explore-hamilton/"
+# - title: "Registration"
+
+# - title: "Schedule/Timetables"
+
+# - title: "Land Acknowledgement"
+#-------------------------------------------------------
+
 # - title: "Register"
 #   href: "/register/"
 
