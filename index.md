@@ -32,24 +32,26 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 <p>
     This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
 </p>
-</div>
-<div class="submissions-box">
+<!-- </div> -->
+<!-- <div class="submissions-box">
     <strong>Now accepting submissions for participation!</strong>
     Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
-</div>
+</div> -->
 
-<div id="popup" class="popup-overlay show">
+<!-- <div id="popup" class="popup-overlay show">
   <div class="popup-box">
-        <!-- <button class="close-btn" onclick="closePopup()">×</button>  no need for button--> 
-    <div class="submissions-box2">
+        <!-- <button class="close-btn" onclick="closePopup()">×</button>  no need for button-->
+
+    <!-- <div class="submissions-box2">
       <strong>Now accepting submissions for participation!</strong>
       Visit the <a href="{{ site.baseurl }}/call-for-proposals/">Call for Proposals</a> page for more details and submission form.
       <button class="close-btn" onclick="closePopup()">Close</button>
-    </div>
-  </div>
+    </div> -->
+
+  <!-- </div> -->
 </div>
 
-<script>
+<!-- <script>
   function closePopup() { //function to close removes show css which contains opactiy =1
     const popup = document.getElementById("popup");
     popup.classList.remove("show");
@@ -83,5 +85,5 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
     });
   }
 };
-</script>
+</script> -->
 </div>
