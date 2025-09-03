@@ -12,7 +12,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
 
 <div class="content-container">
     <p>
-    We are deeply committed to fostering a welcoming, inclusive, and safe environment for all conference participants. We value a space where participants feel the agency to collaborate, communicate, and problem-solve, regardless of identity or background. 
+    We are deeply committed to fostering a welcoming, inclusive, and accountable environment for all conference participants. We value a space where participants feel the agency to collaborate, communicate, and problem-solve, regardless of identity or background. 
     </p>
     <p>
     To support this, we draw on  guiding principles from our sponsoring organizations — including the <a style="text-decoration: underline;" href="{{ page.sherman_center_link }}">Sherman Centre for Digital Scholarship</a> and <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library</a> — to cultivate an enriching environment for all participants. 
@@ -29,7 +29,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     <strong>Being considerate:</strong> Recognize and respect the diverse backgrounds, perspectives, and abilities within our conference community. Be mindful of differences in language, education, and culture. 
     </li>
     <li>
-    <strong>Prioritizing community wellbeing:</strong> Our collective aim is to create spaces that are physically, emotionally, psychologically, and culturally safe for all participants and facilitators. 
+    <strong>Being accountable:</strong> While creating spaces that are fully safe for all participants and facilitators is admirable, it’s not realistic in learning environments where growth often requires discomfort. Safety is also partly beyond our control — we can’t predict others’ behavior or eliminate all potential threats, challenges, or biases. Instead, we aim to foster an accountable space. Participants and facilitators are expected to stay open to feedback, take responsibility for their actions, and work to repair harm when it occurs.
     </li>
     </ul>
     <p>
