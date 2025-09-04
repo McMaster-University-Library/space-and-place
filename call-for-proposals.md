@@ -82,16 +82,19 @@ We invite innovative and alternative forms of presentation, discussion, and enga
 
 <h2 style="text-align: left; ">How to submit:</h2>
 
-<p>
-  Please submit a brief proposal (approx. 200–300 words) via our 
+<!-- <p>
+  Please submit a brief proposal (approx. 200–300 words) via our
   <a href="{{page.submission_form_link}}">submission form</a>.
-</p>
+</p> -->
 
-<strong>Deadline:</strong> Tuesday, September 2nd.
+<strong>Deadline:</strong> Tuesday, September 2nd. <br>
+Thank you for your submissions, the form is now closed!
+
 <br><br><br>
 <strong>Questions?</strong>
 
 Feel free to contact Saman Goudarzi and Christine Homuth at
 <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a> for more information or to discuss your idea before submitting.
 <br><br><br>
+
 </div>
