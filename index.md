@@ -32,6 +32,7 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
 <p>
     This event is dedicated to fellowship amongst scholars, practitioners, artists, and professionals who explore the spatial dimensions of the Hamilton region in creative and meaningful ways.
 </p>
+<br><br><br>
 <!-- </div> -->
 <!-- <div class="submissions-box">
     <strong>Now accepting submissions for participation!</strong>
