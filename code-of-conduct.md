@@ -23,7 +23,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     </p>
     <ul style="margin-left: 40px;">
     <li>
-    <strong>Being respectful:</strong> We expect everyone to treat others with dignity and fairness. Disagreements are natural, but should be expressed with curiosity and empathy — never through personal attacks or hostility. 
+    <strong>Being respectful:</strong> We expect everyone to treat others with dignity and fairness. Differing perspectives and disagreements are an expected and healthy part of shared learning and discourse; they should be expressed with curiosity and empathy — never through personal attacks or hostility.  
     </li>
     <li>
     <strong>Being considerate:</strong> Recognize and respect the diverse backgrounds, perspectives, and abilities within our conference community. Be mindful of differences in language, education, and culture. 
