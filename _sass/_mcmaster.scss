@@ -4,7 +4,7 @@
 $mcmaster-orange: #edb056;
 $mcmaster-maroon: #6f083c; 
 $mcmaster-white: #ffffff;
-$mcmaster-dark-grey: #333333;
+$mcmaster-dark-grey: #6b6b6b;
 $mcmaster-light-gray: #f5f5f5;
 
 //colours christine gave
@@ -573,6 +573,11 @@ html, body {
     flex-direction: column;
     margin-top: 2rem;
   }
+  .schedule table {        /* table stretches to parent width */
+    width: 1200px;     /* cap the max width so it doesn’t get too wide */
+    table-layout: fixed;   /* ensures equal-width columns */
+    border-collapse: collapse;
+  }
   
   .event {
     background: #fff;
@@ -650,12 +655,15 @@ html, body {
   
   table th {
     
-    background-color: #f1f1f1;
+    background-color: darken(#f1f1f1, 5%);
     font-weight: 600;
   }
+  table td.unused{
+    background-color: darken(rgba(48, 165, 167, 0.336), 35%);
+  }
   
-  table tr:nth-child(even) {
-    background-color: #f9f9f9;
+  table tr:nth-child(even) td:not(.unused) {
+    background-color: darken(#f9f9f9, 5%);
   }
 
 //test3
