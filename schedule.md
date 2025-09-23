@@ -79,12 +79,11 @@ permalink: /schedule/
       <tr>
         <td>1:00 - 1:15</td>
         <td rowspan="4">Exhibit Hour</td>
-        <td class="unused"></td>
-        <td>Stories of Migration and Belonging -- Making Hamilton Home</td>
-        <td>Urban parks as spaces of multispecies commoning</td>
+        <td rowspan="4" class="unused"></td>
+        <td rowspan="4">Stories of Migration and Belonging -- Making Hamilton Home</td>
+        <td rowspan="4">Urban parks as spaces of multispecies commoning</td>
       </tr>
       <tr><td>1:15 - 1:30</td>
-      <td rowspan="3" colspan="3" class="unused"></td>
       </tr>
       <tr><td>1:30 - 1:45</td>
       </tr>
