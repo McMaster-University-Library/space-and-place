@@ -127,12 +127,12 @@ permalink: /schedule/
         <td>Steel City Transit Series</td>
       </tr>
       <tr>
-        <td>4:00 - 4:15</td>
-        <td>Defying the Trope of Isolation and Aging, for an Independent Woman (or Growing Community in My Garden)</td>
-        <td rowspan="2">Critical Analysis: Hamilton, Ontario — Beyond Stereotypes</td>
+        <td>4:00 - 4:07</td>
+        <td>Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</td>
+        <td rowspan="2">Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</td>
       </tr>
       <tr>
-        <td>4:07</td>
+        <td>4:07 - 4:15</td>
         <td>BIRD FICTION</td>
       </tr>
       <!-- Wrap-up -->
