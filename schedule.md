@@ -138,7 +138,7 @@ permalink: /schedule/
       </tr>
       <!-- Wrap-up -->
       <tr>
-        <td>4:15</td>
+        <td>4:15 - 4:30</td>
         <td colspan="4" style="text-align:center; font-weight:bold;">Wrap-up</td>
       </tr>
     </tbody>
