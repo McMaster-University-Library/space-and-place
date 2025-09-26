@@ -7,6 +7,7 @@ permalink: /registration/
 <div class="content-container">
 Please note: Registration closes on October 9.
 <br>
+<br>
 Registering for the full conference does not automatically register you for an interactive session. If you'd like to attend a workshop or tour, you'll need to sign up separately for those sessions. Furthermore, registering for the interactive sessions does not include access to the full conference or conference meals. If you wish to participate in the full conference experience, including meals and conference presentations, ensure you register for the full conference separately.
 <br>
 <!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->
