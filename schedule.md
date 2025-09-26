@@ -11,8 +11,8 @@ permalink: /schedule/
     <thead>
       <tr>
         <th>Time</th>
-        <th>HPL Central Branch</th>
-        <th>McMaster's Continuing Education Centre</th>
+        <th>Hamilton Public Library's Central Library</th>
+        <th>McMaster University's Continuing Education Centre</th>
         <th>Visitor Experience Centre</th>
         <th>Bayfront Park</th>
       </tr>
@@ -60,7 +60,7 @@ permalink: /schedule/
       </tr>
       <tr>
         <td>11:15 - 11:30</td>
-        <td>Through the Thick Wood: Indigenous: Settler Entanglement at the Head of the Lake</td>
+        <td>Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake</td>
       </tr>
       <tr>
         <td>11:30 - 11:45</td>
@@ -80,7 +80,7 @@ permalink: /schedule/
         <td>1:00 - 1:15</td>
         <td rowspan="4">Exhibit Hour</td>
         <td rowspan="4" class="unused"></td>
-        <td rowspan="4">Stories of Migration and Belonging -- Making Hamilton Home</td>
+        <td rowspan="4">Stories of Migration and Belonging — Making Hamilton Home</td>
         <td rowspan="4">Urban parks as spaces of multispecies commoning</td>
       </tr>
       <tr><td>1:15 - 1:30</td>
@@ -127,18 +127,17 @@ permalink: /schedule/
         <td>Steel City Transit Series</td>
       </tr>
       <tr>
-        <td>4:00 - 4:15</td>
-        <td>Defying the Trope of Isolation and Aging, for an Independent Woman.
-(or Growing Community in My Garden)</td>
+        <td>4:00 - 4:07</td>
+        <td>Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</td>
         <td rowspan="2">Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</td>
       </tr>
       <tr>
-        <td>4:07</td>
+        <td>4:07 - 4:15</td>
         <td>BIRD FICTION</td>
       </tr>
       <!-- Wrap-up -->
       <tr>
-        <td>4:15</td>
+        <td>4:15 - 4:30</td>
         <td colspan="4" style="text-align:center; font-weight:bold;">Wrap-up</td>
       </tr>
     </tbody>
