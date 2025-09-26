@@ -560,66 +560,143 @@ html, body {
 
   
   //scedule style for test
-  .schedule {
-    display: flex;
-    flex-direction: column;
-    align-items: center;   /* centers the boxes horizontally */
-    gap: 1.5rem;           /* space between boxes */
-    margin-top: 2rem;
-  }
-  .schedule-day {
-    text-align: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 2rem;
-  }
+  
+  
+//   .event {
+//     background: #fff;
+//     padding: 1.5rem;
+//     border-radius: 12px;
+//     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+//     width: 80%;            /* adjust: smaller = narrower centered box */
+//     max-width: 600px;      /* prevents them from being too wide on large screens */
+//   }
+  
+//   .event:hover {
+//     transform: translateY(-3px);
+//     box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+//   }
+  
+//   .event .time {
+//     font-size: 0.9rem;
+//     font-weight: 600;
+//     color: #666;
+//   }
+  
+//   .event .title {
+//     font-size: 1.2rem;
+//     margin: 0.3rem 0;
+//     color: #222;
+//   }
+  
+//   .event .speaker {
+//     font-size: 1rem;
+//     color: #444;
+//   }
+  
+//   .event .location {
+//     font-size: 0.9rem;
+//     color: #777;
+//   }
+  
+//test 2
+
+//   .schedule-day {
+//     text-align: center;
+//     align-items: center;
+//     flex-direction: column;
+//     margin-top: 2rem;
+//   }
   .schedule table {        /* table stretches to parent width */
     width: 1200px;     /* cap the max width so it doesn’t get too wide */
     table-layout: fixed;   /* ensures equal-width columns */
     border-collapse: collapse;
   }
+  @media (max-width: 1200px) {
+    .schedule table{
+        width: 1000px
+    };
+    table th,
+    table td {
+        padding: 1px;
+    }
+   
+}
+@media (max-width: 1000px) {
+    .schedule table{
+        width: 800px
+    };
+}
+  @media (max-width: 800px) {
+    .schedule table{
+        width: 600px
+    };
+    .schedule{
+        font-size: 0.8rem;
+    }
+    table th,
+    table td {
+  padding: 6px ; 
+    }
+
+    @media (max-width: 600px) {
+        .schedule table{
+            width: 500px
+        };
+        .schedule{
+            font-size: 0.7rem;
+        }
+        table th,
+    table td {
+  padding: 2px;
+    }
+    }
+    @media (max-width: 500px) {
+        .schedule table{
+            width: 400px
+        };
+        .schedule{
+            font-size: 0.6rem;
+        }
+        table th,
+        table td {
+            padding: 1px;
+        }
+    }
+    @media (max-width: 400px) {
+        .schedule table{
+            width: 380px
+        };
+        .schedule{
+            font-size: 0.5rem;
+        }
+    }
+    @media (max-width: 380px) {
+        .schedule table{
+            width: 340px
+        };
+    }
+    @media (max-width: 340px) {
+        .schedule table{
+            width: 320px
+        };
+    }
+    @media (max-width: 320px) {
+        .schedule table{
+            width: 300px
+        };
+    }
+
+}
   
-  .event {
-    background: #fff;
-    padding: 1.5rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    width: 80%;            /* adjust: smaller = narrower centered box */
-    max-width: 600px;      /* prevents them from being too wide on large screens */
-  }
-  
-  .event:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
-  }
-  
-  .event .time {
-    font-size: 0.9rem;
-    font-weight: 600;
-    color: #666;
-  }
-  
-  .event .title {
-    font-size: 1.2rem;
-    margin: 0.3rem 0;
-    color: #222;
-  }
-  
-  .event .speaker {
-    font-size: 1rem;
-    color: #444;
-  }
-  
-  .event .location {
-    font-size: 0.9rem;
-    color: #777;
-  }
-  
-//test 2
 .schedule {
+    display: flex;
+    flex-direction: column;
+    align-items: center;   /* centers the boxes horizontally */
+    gap: 1.5rem;           /* space between boxes */
+    margin-top: 2rem;
     padding: 25px;
     margin: 20px auto;
-    max-width: 900px;
+    max-width: 400px;
     background-color: #fff;
     border-radius: 8px;
     .h2 {
@@ -628,10 +705,11 @@ html, body {
     }
 }
   
-  
   table {
-    width: 100%;
+    width: 1200px;     /* cap the max width so it doesn’t get too wide */
+    table-layout: fixed;   /* ensures equal-width columns */
     border-collapse: collapse;
+    // width: 100%;
     margin-top: 15px;
     background: #fff;
     padding: 1.5rem;
@@ -651,6 +729,33 @@ html, body {
     padding: 12px;
     text-align: left;
   }
+  @media (max-width: 1200px){
+    table th,
+    table td {
+    
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  }
+  @media (max-width: 800px){
+    table th,
+    table td {
+
+    border: 1px solid #ddd;
+    padding: 5px;
+    text-align: left;
+  }
+  }
+  @media (max-width: 400px){
+    table th,
+    table td {
+
+    border: 1px solid #ddd;
+    padding: 1px;
+    text-align: left;
+  }
+  }
 
   
   table th {
@@ -666,105 +771,106 @@ html, body {
     background-color: darken(#f9f9f9, 5%);
   }
 
+  
 //test3
 
-.schedule2 {
-    padding: 25px;
-    margin: 20px auto;
-    max-width: 900px;
-    background-color: #fff;
-    border-radius: 8px;
-    .h2 {
-        color: #007bff;
-        margin-bottom: 15px;
-    }
+// .schedule2 {
+//     padding: 25px;
+//     margin: 20px auto;
+//     max-width: 900px;
+//     background-color: #fff;
+//     border-radius: 8px;
+//     .h2 {
+//         color: #007bff;
+//         margin-bottom: 15px;
+//     }
 
   
   
-  table {
-    width: 100%;
-    border-collapse: separate;
-    margin-top: 15px;
-    background: #fff;
-    padding: 1.5rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+//   table {
+//     width: 100%;
+//     border-collapse: separate;
+//     margin-top: 15px;
+//     background: #fff;
+//     padding: 1.5rem;
+//     border-radius: 12px;
+//     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     
-  }
-  table a {
-    text-decoration: underline !important; /* forces underline */
-    color: #007bff; /* optional: blue links */
-  }
+//   }
+//   table a {
+//     text-decoration: underline !important; /* forces underline */
+//     color: #007bff; /* optional: blue links */
+//   }
   
-  table th,
-  table td {
-    border-color: #d1cdcd;
+//   table th,
+//   table td {
+//     border-color: #d1cdcd;
     
-    padding: 1.5rem;
+//     padding: 1.5rem;
     
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+//     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
  
-    padding: 20px;
-    text-align: left;
-  }
+//     padding: 20px;
+//     text-align: left;
+//   }
 
   
-  table th {
+//   table th {
     
-    background-color: #f1f1f1;
-    font-weight: 600;
-    border-color: #d1cdcd;
-  }
+//     background-color: #f1f1f1;
+//     font-weight: 600;
+//     border-color: #d1cdcd;
+//   }
   
-  table tr:nth-child(even) {
-    background-color: #f9f9f9;
+//   table tr:nth-child(even) {
+//     background-color: #f9f9f9;
   
-  }
+//   }
  
 
-}
+// }
 
-.timeline-container {
-    text-align: center;
-    overflow-x: auto;          /* makes it scroll horizontally */
-    white-space: nowrap;       /* keeps events in one line */
-    border-top: 2px solid hsl(0, 2%, 68%);
-    border-bottom: 2px solid #ccc;
-    border-radius: 12px;
-    // align-self: center;
-    margin: 2rem auto;        /* center horizontally */
-    max-width: 1000px;         /* reduce width */
+// .timeline-container {
+//     text-align: center;
+//     overflow-x: auto;          /* makes it scroll horizontally */
+//     white-space: nowrap;       /* keeps events in one line */
+//     border-top: 2px solid hsl(0, 2%, 68%);
+//     border-bottom: 2px solid #ccc;
+//     border-radius: 12px;
+//     // align-self: center;
+//     margin: 2rem auto;        /* center horizontally */
+//     max-width: 1000px;         /* reduce width */
     
-  }
+//   }
   
-  .timeline-scroll {
-    display: inline-flex;      /* place items side by side */
-    gap: 2rem;                 /* space between events */
-  }
+//   .timeline-scroll {
+//     display: inline-flex;      /* place items side by side */
+//     gap: 2rem;                 /* space between events */
+//   }
   
-  .timeline-event {
-    flex: 0 0 auto;            /* prevent shrinking */
-    min-width: 200px;
-    min-height: 150px;
-    padding: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 12px;
-    background: #f9f9f9;
-    text-align: center;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  }
+//   .timeline-event {
+//     flex: 0 0 auto;            /* prevent shrinking */
+//     min-width: 200px;
+//     min-height: 150px;
+//     padding: 1rem;
+//     border: 1px solid #ccc;
+//     border-radius: 12px;
+//     background: #f9f9f9;
+//     text-align: center;
+//     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+//   }
   
-  .timeline-time {
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  }
+//   .timeline-time {
+//     font-weight: bold;
+//     margin-bottom: 0.5rem;
+//   }
   
-  .timeline-title a {
-    color: #007bff;
-    text-decoration: underline;
-  }
+//   .timeline-title a {
+//     color: #007bff;
+//     text-decoration: underline;
+//   }
   
-  .timeline-presenter {
-    font-size: 0.9em;
-    color: #555;
-  }
+//   .timeline-presenter {
+//     font-size: 0.9em;
+//     color: #555;
+//   }

@@ -35,6 +35,9 @@
     - title: "Contributors"
       href: "/contributors/"
 
+- title: "Land Acknowledgement"
+  href: "/land-acknowledgement/"
+
 - title: "Call for Proposals"
   href: "/call-for-proposals/"
 
@@ -66,8 +69,6 @@
 
 # - title: "Schedule/Timetables"
 
-- title: "Land Acknowledgement"
-  href: "/land-acknowledgement/"
 #-------------------------------------------------------
 
 # - title: "Register"
