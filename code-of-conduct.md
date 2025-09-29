@@ -33,7 +33,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     </li>
     </ul>
     <p>
-    Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}">Digital Library Federation’s ‘How to Be’ framework</a>, which provides practical guidance for cultivating welcoming, inclusive, and safe environment spaces:  
+    Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}">Digital Library Federation’s ‘How to Be’ framework</a>, which provides practical guidance for cultivating welcoming, inclusive, and accountable spaces:  
     </p>
     <ul style="margin-left: 40px;">
     <li>
