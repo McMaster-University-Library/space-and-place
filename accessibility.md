@@ -21,7 +21,7 @@ eduCentreLink: "https://maps.app.goo.gl/nmGJygpWyrEWrfdAA"
     For interactive sessions held elsewhere, accessibility details will be available on their respective registration pages.
     </p>
     <h2>Venue Descriptions</h2>
-    <h3><a href="{{ page.hplLink }}">Hamilton Public Library – Central Library</a></h3>
+    <h3><a href="{{ page.hplLink }}" target ="_blank">Hamilton Public Library – Central Library</a></h3>
     <p><strong>Location:</strong> 55 York Boulevard, Hamilton, ON</p>
     <ul style="margin-left: 40px;">
         <li><strong>Building:</strong> Fully wheelchair accessible. Both York Boulevard and Jackson Square Mall entrances have automatic doors. A ramp at the York Boulevard entrance connects to the First Floor. Elevators provide access to other floors.</li>
@@ -30,7 +30,7 @@ eduCentreLink: "https://maps.app.goo.gl/nmGJygpWyrEWrfdAA"
         <li><strong>Washrooms:</strong> Accessible, gender-neutral restrooms with wide-door stalls, support rails, and accessibility buttons. Hygiene products (including pads) and a container for needles/sharps are provided.</li>
         <li><strong>Caregiving:</strong> A dedicated nursing room is available on the first floor. Access is provided via key from the Youth Services Information Desk.</li>
     </ul>
-    <h3><a href=" {{ page.eduCentreLink }} ">McMaster University – Continuing Education Centre</a></h3>
+    <h3><a href=" {{ page.eduCentreLink }} " target ="_blank">McMaster University – Continuing Education Centre</a></h3>
     <p><strong>Location:</strong> 1 James St N, Hamilton, ON</p>
     <ul style="margin-left: 40px;">
         <li><strong>Building:</strong> Fully wheelchair accessible. Both James St N and Jackson Square Mall entrances have automatic doors. The James St N entrance includes a ramp. The conference room is on the second floor and can be accessed by elevator. While the room does not have automatic doors, a conference volunteer will assist as needed.</li>

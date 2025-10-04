@@ -15,7 +15,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     We are deeply committed to fostering a welcoming, inclusive, and accountable environment for all conference participants. We value a space where participants feel the agency to collaborate, communicate, and problem-solve, regardless of identity or background. 
     </p>
     <p>
-    To support this, we draw on  guiding principles from our sponsoring organizations — including the <a style="text-decoration: underline;" href="{{ page.sherman_center_link }}">Sherman Centre for Digital Scholarship</a> and <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library</a> — to cultivate an enriching environment for all participants. 
+    To support this, we draw on  guiding principles from our sponsoring organizations — including the <a style="text-decoration: underline;" href="{{ page.sherman_center_link }}" target ="_blank">Sherman Centre for Digital Scholarship</a> and <a style="text-decoration: underline;" href="{{ page.hpl_link }}" target ="_blank">Hamilton Public Library</a> — to cultivate an enriching environment for all participants. 
     </p>
     <h2>How We Behave</h2>
     <p>
@@ -33,7 +33,7 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     </li>
     </ul>
     <p>
-    Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}">Digital Library Federation’s ‘How to Be’ framework</a>, which provides practical guidance for cultivating welcoming, inclusive, and safe environment spaces:  
+    Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}" target ="_blank">Digital Library Federation’s ‘How to Be’ framework</a>, which provides practical guidance for cultivating welcoming, inclusive, and safe environment spaces:  
     </p>
     <ul style="margin-left: 40px;">
     <li>

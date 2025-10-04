@@ -16,19 +16,19 @@ CBCLink: "https://www.cbc.ca/radio/unreserved/redrawing-the-lines-1.4973363/i-re
 
 <div class="content-container">
     <p>
-        We acknowledge that Hamilton is an incredible place, shaped by a rich and complex history. Long before the arrival of European colonialism, it was a place of gathering, travel, trade, and exchange for many Indigenous nations. These include the <a href="{{ page.AnishinabewakiLink }}">Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ</a>, the <a href="{{ page.HaudenosauneeLink }}" >Ho-de-no-sau-nee-ga (Haudenosaunee)</a>, the <a href="{{ page.AttiwonderonkLink }}">Attiwonderonk (Neutral)</a>, the <a href="{{ page.MississaugaLink }}">Mississauga</a>, and the <a href="{{ page.MississaugasoftheCreditFirstNationLink }}">Mississaugas of the Credit First Nation.</a>
+        We acknowledge that Hamilton is an incredible place, shaped by a rich and complex history. Long before the arrival of European colonialism, it was a place of gathering, travel, trade, and exchange for many Indigenous nations. These include the <a href="{{ page.AnishinabewakiLink }} " target ="_blank">Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ</a>, the <a href="{{ page.HaudenosauneeLink }}" target ="_blank" >Ho-de-no-sau-nee-ga (Haudenosaunee)</a>, the <a href="{{ page.AttiwonderonkLink }}" target ="_blank">Attiwonderonk (Neutral)</a>, the <a href="{{ page.MississaugaLink }}" target ="_blank">Mississauga</a>, and the <a href="{{ page.MississaugasoftheCreditFirstNationLink }}" target ="_blank">Mississaugas of the Credit First Nation.</a>
     </p>
     <p>
         This land is protected by the Dish With One Spoon Wampum Belt Covenant — an agreement between the Haudenosaunee Confederacy and Anishinaabe Nations, to share and care for the resources around the Great Lakes, to take only what they need, leave enough for others, and to keep the dish clean.
     </p>
     <p>
-        We recognize that the Crown has repeatedly ignored and violated many Nation-to-Nation treaties, leaving settlements and promises unfulfilled. This includes the <a href="{{ page.Treaty1792Link }}" >Between the Lakes Treaty of 1792</a>,<a href="{{ page.PolishinTarnishingLink }}"> where colonial agents distorted the sacred nature of this treaty in advance of their own agenda.</a> It also includes the <a href="{{ page.Treaty1784Link }}">Haldimand Treaty of 1784</a>, which originally designated land six miles on each side of the Grand River as a tract for the Six Nations — a promise that is still not being honoured today.
+        We recognize that the Crown has repeatedly ignored and violated many Nation-to-Nation treaties, leaving settlements and promises unfulfilled. This includes the <a href="{{ page.Treaty1792Link }}"target ="_blank" >Between the Lakes Treaty of 1792</a>,<a href="{{ page.PolishinTarnishingLink }}" target ="_blank"> where colonial agents distorted the sacred nature of this treaty in advance of their own agenda.</a> It also includes the <a href="{{ page.Treaty1784Link }}" target ="_blank">Haldimand Treaty of 1784</a>, which originally designated land six miles on each side of the Grand River as a tract for the Six Nations — a promise that is still not being honoured today.
     </p>
     <p>
         This land is not merely a physical space but a living part of a much larger story. The water, escarpment, and valleys remind us that we are in relationship with the land, not separate from it. We honour the Indigenous Peoples who have stewarded these lands and waters across generations, and we stand in solidarity with all those who continue to defend their territories, lands, and waters.
     </p>
     <p>
-        We commit to moving beyond words into action—<a href="{{ page.CBCLink }}">knowing that true acknowledgement requires ongoing learning and accountability to the Indigenous Peoples of this region.</a> The planning committee — comprising both individual and institutional actors — honours this responsibility, each to varying degrees, by working to Indigenize and decolonize our institutions, collections, services, and spaces.
+        We commit to moving beyond words into action—<a href="{{ page.CBCLink }}" target ="_blank">knowing that true acknowledgement requires ongoing learning and accountability to the Indigenous Peoples of this region.</a> The planning committee — comprising both individual and institutional actors — honours this responsibility, each to varying degrees, by working to Indigenize and decolonize our institutions, collections, services, and spaces.
     </p>
 
 </div>
