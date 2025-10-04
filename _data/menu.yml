@@ -47,6 +47,8 @@
       href: "/registration"
     - title: "Schedule"
       href: "/schedule/"
+    - title: "Accessibility"
+      href: "/accessibility/"
     - title: "Code of Conduct"
       href: "/code-of-conduct/"
 
