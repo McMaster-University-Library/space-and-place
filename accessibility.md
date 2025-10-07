@@ -64,8 +64,5 @@ eduCentreLink: "https://maps.app.goo.gl/nmGJygpWyrEWrfdAA"
     <p>
     To help create a comfortable environment for those with scent sensitivities, we kindly ask attendees to avoid wearing strong perfumes, colognes, or fragranced products.
     </p>
-    <h2>Care and Multifaith Space</h2>
-    <p>
-    A quiet, welcoming space for reflection, prayer, meditation, or personal time is available in <strong>Room 428, 4th floor</strong>.
-    </p>
+    
 </div>
