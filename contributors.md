@@ -31,16 +31,16 @@ permalink: /contributors/
       <li>Sarah Minos, McMaster University Libraries</li>
       <li>Luis Navarro, McMaster University</li>
     </ul>
-    <h2>Event Volunteers</h2>
-    <ul>
-      <li>Danica Evering, Research Data Management Services, McMaster University Libraries</li>
-      <li>Annela Kennedy-Williams, McMaster University</li>
-      <li>Devon Mordell, MacPherson Institute, McMaster University</li>
-      <li>Rahmah Rahmani, McMaster University</li>
-    </ul>
     <h2>Community Outreach Support</h2>
     <ul>
       <li>Carrie McMullin, Knowledge Broker Manager, Office of Community Engagement</li>
+    </ul>
+    <h2>Event Volunteers</h2>
+    <ul>
+      <li>Danica Evering, McMaster University Libraries</li>
+      <li>Annela Kennedy-Williams, McMaster University</li>
+      <li>Devon Mordell, MacPherson Institute, McMaster University</li>
+      <li>Rahmah Rahmani, McMaster University</li>
     </ul>
     <h2>Logo Design</h2>
     <ul>
