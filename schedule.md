@@ -27,7 +27,12 @@ permalink: /schedule/
       <!-- Renewing Treaty Relations -->
       <tr>
         <td>9:15 - 9:30</td>
-        <td rowspan="4">Renewing Treaty Relations on the River of Life</td>
+          <td rowspan="4"> 
+            <a href="{{ site.baseurl }}/abstracts/#Renewing Treaty Relations on the River of Life"> Renewing Treaty Relations on the River of Life
+            </a>
+            <br><br>
+            <strong>Presenter:</strong> Daniel Coleman; Rick Hill
+          </td>
       </tr>
       <tr>
       <td>9:30 - 9:45</td>
@@ -46,25 +51,50 @@ permalink: /schedule/
       <!-- 10:30 parallel sessions -->
       <tr>
         <td>10:30 - 10:45</td>
-        <td>Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place </td>
-        <td rowspan="4">Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton </td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place ">Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place  
+        </a>
+        <br><br>
+        <strong>Presenter:</strong> Victoria Clowater
+        </td>
+        <td rowspan="4">
+        <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton</a>
+        <br><br>
+        <strong>Presenter:</strong> Melanie Bedore
+        </td>
         <td rowspan="6" colspan="2" class="unused"></td>
       </tr>
       <tr>
         <td>10:45 - 11:00</td>
-        <td>Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton</td>
+        <td>
+          <a href="{{ site.baseurl }}/abstracts/#Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton">Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton
+          </a>
+        <br><br>
+        <strong>Presenters:</strong> Robert Motum, Jojo Chooi-Harley, Jonathan Harley </td>
       </tr>
       <tr>
         <td>11:00 - 11:15</td>
-        <td>A New Frame / Beneath the Map</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#A New Frame-Beneath the Map"> A New Frame / Beneath the Map</a>
+        <br><br>
+        <strong>Presenter:</strong> Ben Robinson
+        </td>
       </tr>
       <tr>
         <td>11:15 - 11:30</td>
-        <td>Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake">Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake </a>
+        <br><br>
+        <strong>Presenter:</strong> Scott Martin
+        </td>
       </tr>
       <tr>
         <td>11:30 - 11:45</td>
-        <td rowspan="2">Poetry in Place: Reading the land with local poets</td>
+        <td rowspan="2">
+        <a href="{{ site.baseurl }}/abstracts/#Poetry in Place: Reading the land with local poets">Poetry in Place: Reading the land with local poets</a>
+        <br><br>
+        <strong>Presenter:</strong> Elise Bird, and up to three guest poets
+        </td>
         <td rowspan="2" class="unused" style=""></td>
       </tr>
       <tr>
@@ -80,8 +110,16 @@ permalink: /schedule/
         <td>1:00 - 1:15</td>
         <td rowspan="4">Exhibit Hour</td>
         <td rowspan="4" class="unused"></td>
-        <td rowspan="4">Stories of Migration and Belonging — Making Hamilton Home</td>
-        <td rowspan="4">Urban parks as spaces of multispecies commoning</td>
+        <td rowspan="4">
+        <a href="{{ site.baseurl }}/abstracts/#Stories of Migration and Belonging — Making Hamilton Home">Stories of Migration and Belonging — Making Hamilton Home </a>
+        <br><br>
+        <strong>Presenters:</strong> Natasha Martinez, Meredith Leonard
+        </td>
+        <td rowspan="4">
+        <a href="{{ site.baseurl }}/abstracts/#Urban parks as spaces of multispecies commoning">Urban parks as spaces of multispecies commoning </a>
+        <br><br>
+        <strong>Presenter:</strong> Becky Ellis
+        </td>
       </tr>
       <tr><td>1:15 - 1:30</td>
       </tr>
@@ -96,14 +134,22 @@ permalink: /schedule/
       </tr>
       <tr>
         <td>2:15 - 2:30</td>
-        <td rowspan="2">Profane Mapping and the Brightside Neighbourhood Project</td>
+        <td rowspan="2">
+        <a href="{{ site.baseurl }}/abstracts/#Profane Mapping and the Brightside Neighbourhood Project">Profane Mapping and the Brightside Neighbourhood Project </a>
+        <br><br>
+        <strong>Presenters:</strong> Simon Orpana, Matt McInnes, Nancy Bouchier 
+        </td>
       <td rowspan="3" colspan="3" class="unused"></td>
       </tr>
       <tr><td>2:30 - 2:45</td>
       </tr>
       <tr>
         <td>2:45 - 3:00</td>
-        <td rowspan="1">Poetry, Protest, and Place: Learning Hamilton Through Solidarity</td>
+        <td rowspan="1">
+        <a href="{{ site.baseurl }}/abstracts/#Poetry, Protest, and Place: Learning Hamilton Through Solidarity">Poetry, Protest, and Place: Learning Hamilton Through Solidarity</a>
+        <br><br>
+        <strong>Presenter:</strong> Zahra Tootonsab
+        </td>
       </tr>
       <!-- Afternoon Break -->
       <tr>
@@ -112,28 +158,64 @@ permalink: /schedule/
       </tr>
       <tr>
         <td>3:15 - 3:30</td>
-        <td>Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton</td>
-        <td>Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton">Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton </a>
+        <br><br>
+        <strong>Presenter:</strong> Jordyn Beaupré
+        </td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990">Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990 </a>
+        <br><br>
+        <strong>Presenter:</strong> Gavin Rees
+        </td>
         <td rowspan="5" colspan="2" class="unused"></td>
       </tr>
       <tr>
         <td>3:30 - 3:45</td>
-        <td>Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements</td>
-        <td>A City of Words: re-imagining place through poetry in Hamilton, Ontario</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements">Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements </a>
+        <br><br>
+        <strong>Presenter:</strong> Abdulellah Hbbani (Abdo)
+        </td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#A City of Words: re-imagining place through poetry in Hamilton, Ontario">A City of Words: re-imagining place through poetry in Hamilton, Ontario </a>
+        <br><br>
+        <strong>Presenter:</strong> Stephanie Sushko
+        </td>
       </tr>
       <tr>
         <td>3:45 - 4:00</td>
-        <td>Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice</td>
-        <td>Steel City Transit Series</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice">Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice </a>
+        <br><br>
+        <strong>Presenters:</strong> Joonsoo Sean Lyeo, Allison Williams, Bharati Sethi
+        </td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Steel City Transit Series">Steel City Transit Series </a>
+        <br><br>
+        <strong>Presenter:</strong> Esther Kok
+        </td>
       </tr>
       <tr>
         <td>4:00 - 4:07</td>
-        <td>Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</td>
-        <td rowspan="2">Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden) </a>
+        <br><br>
+        <strong>Presenter:</strong> Cynthia Meyer
+        </td>
+        <td rowspan="2">
+        <a href="{{ site.baseurl }}/abstracts/#Critical Analysis: Hamilton, Ontario - Beyond Stereotypes">Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</a>
+        <br><br>
+        <strong>Presenter:</strong> Mutaz Khider 
+        </td>
       </tr>
       <tr>
         <td>4:07 - 4:15</td>
-        <td>BIRD FICTION</td>
+        <td>
+        <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION </a>
+        <br><br>
+        <strong>Presenters:</strong> Gary Barwin, Sarah Imrisek
+        </td>
       </tr>
       <!-- Wrap-up -->
       <tr>
@@ -143,4 +225,5 @@ permalink: /schedule/
     </tbody>
 
   </table>
+ 
 </div>

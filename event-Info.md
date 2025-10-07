@@ -11,8 +11,8 @@ mcmaster_link: "https://www.google.com/maps/place/McMaster+Continuing+Education/
     <h2>Space and Place Conference</h2>
     <p>
     McMaster University Libraries, in partnership with Hamilton Public Library and McMaster University's Office of Community Engagement, are excited to announce the inaugural Space and Place conference, taking place on <strong>Friday, October 17, 2025</strong>, at
-    <a style="text-decoration: underline;" href="{{ page.hpl_link }}">Hamilton Public Library's Central Branch</a> and
-    <a style="text-decoration: underline;" href="{{ page.mcmaster_link }}">McMaster University's Continuing Education centre</a>.
+    <a style="text-decoration: underline;" href="{{ page.hpl_link }}" target ="_blank">Hamilton Public Library's Central Branch</a> and
+    <a style="text-decoration: underline;" href="{{ page.mcmaster_link }}" target ="_blank">McMaster University's Continuing Education centre</a>.
 </p>
 
 <p>
