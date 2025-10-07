@@ -33,7 +33,7 @@ permalink: /contributors/
     </ul>
     <h2>Event Volunteers</h2>
     <ul>
-      <li>Danica Evering, Sherman Centre for Digital Scholarship, McMaster University Libraries</li>
+      <li>Danica Evering, Research Data Management Services, McMaster University Libraries</li>
       <li>Annela Kennedy-Williams, McMaster University</li>
       <li>Devon Mordell, MacPherson Institute, McMaster University</li>
       <li>Rahmah Rahmani, McMaster University</li>
