@@ -117,7 +117,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements" >Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements</h2>
-    <h4>  Speakers: Abdulellah Hbbani (Abdo) </h4>
+    <h4>  Speaker: Abdulellah Hbbani (Abdo) </h4>
         <p>
         What is the role of treaty-informed and place-conscious ritual in newcomers’ settlement and their relationship with Indigenous peoples and settler Canadians? This presentation reflects on Canada’s “White Civility” (Coleman, 2006) through the lens of my own displacement from Sudan and immigration to Hamilton, where institutional orientation practices often overlook Indigenous presence and newcomer epistemologies alike. I contrast this with Sudanese Taaruf which is a ritualistic hospitality practice where guests and hosts are mutually oriented to shared landscapes and relationships, and its adaptation in my Hamilton-based Pamoja tea gatherings.
         </p>
