@@ -199,7 +199,7 @@ permalink: /schedule/
       <tr>
         <td>4:00 - 4:07</td>
         <td>
-        Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)
+        Defying the Trope of Isolation and Aging, for an Independent Woman (or Growing Community in My Garden)
         <br><br>
         Cynthia Meyer
         </td>
