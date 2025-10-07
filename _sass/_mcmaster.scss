@@ -770,8 +770,10 @@ html, body {
   table tr:nth-child(even) td:not(.unused) {
     background-color: darken(#f9f9f9, 5%);
   }
-
   
+  :target {
+    scroll-margin-top: 120px; // adjust for header height
+  }
 //test3
 
 // .schedule2 {

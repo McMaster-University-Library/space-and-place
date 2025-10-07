@@ -87,11 +87,17 @@
 
   body {
     padding-top: 100px;  /* Increased from 70px to give more space */
+    scroll-padding-top: 120px;  /* Add scroll offset for anchor links */
   } 
 
   .page-title {
     margin-top: 2rem;
     padding-top: 1rem;
+  }
+
+  /* Ensure anchor links account for fixed header */
+  html {
+    scroll-padding-top: 120px;
   } 
 
 // Centralized navigation overrides and dropdowns

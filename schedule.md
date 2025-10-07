@@ -108,8 +108,8 @@ permalink: /schedule/
       <!-- 1:00 sessions -->
       <tr>
         <td>1:00 - 1:15</td>
-        <td rowspan="4">Exhibit Hour</td>
         <td rowspan="4" class="unused"></td>
+        <td rowspan="4" >Exhibit Hour</td>Exhibit Hour
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Stories of Migration and Belonging — Making Hamilton Home">Stories of Migration and Belonging — Making Hamilton Home </a>
         <br><br>
