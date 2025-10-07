@@ -46,7 +46,7 @@ permalink: /getting-there/
           Enter through the door next to Nations at 2 Bay St. N for the easiest access.</td>
         </tr>
         <tr>
-          <td> <a href="https://maps.app.goo.gl/VeWrJwft6YesAs9H9" target="_blank">Canada Wide Parking (83 MacNab St. N)</a></td>
+          <td> <a href="https://maps.app.goo.gl/VeWrJwft6YesAs9H9" target="_blank">Canada Wide Parking</a><br>83 MacNab St. N</td>
           <td>Surface</td>
           <td>$7</td>
           <td>Cheapest option.
@@ -56,7 +56,7 @@ permalink: /getting-there/
           Approximately a 7-minute walk to McMaster’s Continuing Education Centre.</td>
         </tr>
         <tr>
-          <td><a href="https://maps.app.goo.gl/VCYVo6NX6uSU9v8PA" target="_blank">City of Hamilton Parkade (21 Vine St.)</a> </td>
+          <td><a href="https://maps.app.goo.gl/VCYVo6NX6uSU9v8PA" target="_blank">City of Hamilton Parkade </a><br>21 Vine St.</td>
           <td>Covered</td>
           <td>$12</td>
           <td>Across the street from the Hamilton Public Library’s Central Library.
@@ -64,7 +64,7 @@ permalink: /getting-there/
            Approximately a 5-minute walk to McMaster’s Continuing Education Centre.</td>
         </tr>
         <tr>
-          <td><a href="https://maps.app.goo.gl/NL5Yy6ahtwC3kcc8A" target="_blank">DBHSC Surface Lot (129 Bay St. S)</a> </td>
+          <td><a href="https://maps.app.goo.gl/NL5Yy6ahtwC3kcc8A" target="_blank">DBHSC Surface Lot</a><br>129 Bay St. S </td>
           <td>Surface</td>
           <td>$10</td>
           <td>Approximately an 8-minute walk to the Hamilton Public Library’s Central Library. 
@@ -74,7 +74,7 @@ permalink: /getting-there/
           Payment via <a href="https://www.honkmobile.com/" target="_blank">Honk Mobile</a>.</td>
         </tr>
         <tr>
-          <td><a href="https://maps.app.goo.gl/TjmSUrPjGZdWHz6T7" target="_blank">Impark Surface Lot (26 James St. N)</a> </td>
+          <td><a href="https://maps.app.goo.gl/TjmSUrPjGZdWHz6T7" target="_blank">Impark Surface Lot </a> <br>26 James St. N </td>
           <td>Surface</td>
           <td>$22</td>
           <td>
