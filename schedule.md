@@ -58,7 +58,7 @@ permalink: /schedule/
         Victoria Clowater
         </td>
         <td rowspan="4">
-        <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton</a>
+        <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton</a>
         <br><br>
         Melanie Bedore
         </td>
@@ -75,7 +75,7 @@ permalink: /schedule/
       <tr>
         <td>11:00 - 11:15</td>
         <td>
-        <a href="{{ site.baseurl }}/abstracts/#A New Frame-Beneath the Map"> A New Frame / Beneath the Map</a>
+        <a href="{{ site.baseurl }}/abstracts/#A New Frame / Beneath the Map"> A New Frame / Beneath the Map</a>
         <br><br>
         Ben Robinson
         </td>
@@ -199,7 +199,7 @@ permalink: /schedule/
       <tr>
         <td>4:00 - 4:07</td>
         <td>
-        <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden) </a>
+        Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)
         <br><br>
         Cynthia Meyer
         </td>
