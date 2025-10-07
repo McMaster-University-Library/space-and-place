@@ -93,5 +93,5 @@ permalink: /getting-there/
   <p>
     Public transit offers a convenient way to reach the conference. Several HSR bus stops are located within minutes from the conference locations, making it easy to arrive without the hassle of parking. Please note that most bus routes start or end at the Frank A. Cooke Terminal. If you're traveling from there, the easiest way to navigate to the main conference venues is via Jackson Square, located directly across the street from the terminal. For personalized transit directions, use the web map above or your preferred mapping service.
   </p>
-
+<br>
 </div>
