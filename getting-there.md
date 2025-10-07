@@ -17,7 +17,7 @@ permalink: /getting-there/
   <h2>Conference Venues</h2>
 
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eN3xEkkbp4fWu0CyhufUCwrubiqDxg8&ehbc=2E312F&noprof=1" width="100%" height="480" style="border:0;"></iframe>
-
+    <br><br>
   <h2>By Car</h2>
   <p>
     For those travelling by car, detailed driving directions can be generated using the above web map or with your preferred mapping service. Simply enter your starting location to find the best route. 
