@@ -31,7 +31,7 @@ permalink: /schedule/
             <a href="{{ site.baseurl }}/abstracts/#Renewing Treaty Relations on the River of Life"> Renewing Treaty Relations on the River of Life
             </a>
             <br><br>
-            <strong>Presenter:</strong> Daniel Coleman; Rick Hill
+            Daniel Coleman / Rick Hill
           </td>
       </tr>
       <tr>
@@ -55,12 +55,12 @@ permalink: /schedule/
         <a href="{{ site.baseurl }}/abstracts/#Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place ">Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place  
         </a>
         <br><br>
-        <strong>Presenter:</strong> Victoria Clowater
+        Victoria Clowater
         </td>
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to increase urban geography students' first-hand exposure to Hamilton</a>
         <br><br>
-        <strong>Presenter:</strong> Melanie Bedore
+        Melanie Bedore
         </td>
         <td rowspan="6" colspan="2" class="unused"></td>
       </tr>
@@ -70,14 +70,14 @@ permalink: /schedule/
           <a href="{{ site.baseurl }}/abstracts/#Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton">Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton
           </a>
         <br><br>
-        <strong>Presenters:</strong> Robert Motum, Jojo Chooi-Harley, Jonathan Harley </td>
+        Robert Motum / Jojo Chooi-Harley / Jonathan Harley </td>
       </tr>
       <tr>
         <td>11:00 - 11:15</td>
         <td>
         <a href="{{ site.baseurl }}/abstracts/#A New Frame-Beneath the Map"> A New Frame / Beneath the Map</a>
         <br><br>
-        <strong>Presenter:</strong> Ben Robinson
+        Ben Robinson
         </td>
       </tr>
       <tr>
@@ -85,7 +85,7 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake">Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake </a>
         <br><br>
-        <strong>Presenter:</strong> Scott Martin
+        Scott Martin
         </td>
       </tr>
       <tr>
@@ -93,7 +93,7 @@ permalink: /schedule/
         <td rowspan="2">
         <a href="{{ site.baseurl }}/abstracts/#Poetry in Place: Reading the land with local poets">Poetry in Place: Reading the land with local poets</a>
         <br><br>
-        <strong>Presenter:</strong> Elise Bird, and up to three guest poets
+        Elise Bird / Elizabeth Tessier / Arwen Roussell / Gary Barwin
         </td>
         <td rowspan="2" class="unused" style=""></td>
       </tr>
@@ -113,12 +113,12 @@ permalink: /schedule/
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Stories of Migration and Belonging — Making Hamilton Home">Stories of Migration and Belonging — Making Hamilton Home </a>
         <br><br>
-        <strong>Presenters:</strong> Natasha Martinez, Meredith Leonard
+        Natasha Martinez / Meredith Leonard
         </td>
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Urban parks as spaces of multispecies commoning">Urban parks as spaces of multispecies commoning </a>
         <br><br>
-        <strong>Presenter:</strong> Becky Ellis
+        Becky Ellis
         </td>
       </tr>
       <tr><td>1:15 - 1:30</td>
@@ -137,7 +137,7 @@ permalink: /schedule/
         <td rowspan="2">
         <a href="{{ site.baseurl }}/abstracts/#Profane Mapping and the Brightside Neighbourhood Project">Profane Mapping and the Brightside Neighbourhood Project </a>
         <br><br>
-        <strong>Presenters:</strong> Simon Orpana, Matt McInnes, Nancy Bouchier 
+        Simon Orpana / Matt McInnes / Nancy Bouchier 
         </td>
       <td rowspan="3" colspan="3" class="unused"></td>
       </tr>
@@ -148,7 +148,7 @@ permalink: /schedule/
         <td rowspan="1">
         <a href="{{ site.baseurl }}/abstracts/#Poetry, Protest, and Place: Learning Hamilton Through Solidarity">Poetry, Protest, and Place: Learning Hamilton Through Solidarity</a>
         <br><br>
-        <strong>Presenter:</strong> Zahra Tootonsab
+        Zahra Tootonsab
         </td>
       </tr>
       <!-- Afternoon Break -->
@@ -161,12 +161,12 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton">Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton </a>
         <br><br>
-        <strong>Presenter:</strong> Jordyn Beaupré
+        Jordyn Beaupré
         </td>
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990">Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990 </a>
         <br><br>
-        <strong>Presenter:</strong> Gavin Rees
+        Gavin Rees
         </td>
         <td rowspan="5" colspan="2" class="unused"></td>
       </tr>
@@ -175,12 +175,12 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements">Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements </a>
         <br><br>
-        <strong>Presenter:</strong> Abdulellah Hbbani (Abdo)
+        Abdulellah Hbbani (Abdo)
         </td>
         <td>
         <a href="{{ site.baseurl }}/abstracts/#A City of Words: re-imagining place through poetry in Hamilton, Ontario">A City of Words: re-imagining place through poetry in Hamilton, Ontario </a>
         <br><br>
-        <strong>Presenter:</strong> Stephanie Sushko
+        Stephanie Sushko
         </td>
       </tr>
       <tr>
@@ -188,12 +188,12 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice">Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice </a>
         <br><br>
-        <strong>Presenters:</strong> Joonsoo Sean Lyeo, Allison Williams, Bharati Sethi
+        Joonsoo Sean Lyeo / Allison Williams / Bharati Sethi
         </td>
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Steel City Transit Series">Steel City Transit Series </a>
         <br><br>
-        <strong>Presenter:</strong> Esther Kok
+        Esther Kok
         </td>
       </tr>
       <tr>
@@ -201,12 +201,12 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden) </a>
         <br><br>
-        <strong>Presenter:</strong> Cynthia Meyer
+        Cynthia Meyer
         </td>
         <td rowspan="2">
         <a href="{{ site.baseurl }}/abstracts/#Critical Analysis: Hamilton, Ontario - Beyond Stereotypes">Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</a>
         <br><br>
-        <strong>Presenter:</strong> Mutaz Khider 
+        Mutaz Khider 
         </td>
       </tr>
       <tr>
@@ -214,7 +214,7 @@ permalink: /schedule/
         <td>
         <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION </a>
         <br><br>
-        <strong>Presenters:</strong> Gary Barwin, Sarah Imrisek
+        Gary Barwin / Sarah Imrisek
         </td>
       </tr>
       <!-- Wrap-up -->
