@@ -10,8 +10,8 @@ permalink: /contributors/
     </p>
     <h2>Conference Co-chairs</h2>
     <ul>
-      <li>Saman Goudarzi (co-chair), Lloyd Reeds Map Collection, McMaster University Libraries</li>
-      <li>Christine Homuth (co-chair), McMaster University Libraries</li>
+      <li>Saman Goudarzi, Lloyd Reeds Map Collection, McMaster University Libraries</li>
+      <li>Christine Homuth, McMaster University Libraries</li>
     </ul>
     <h2>Programming Committee</h2>
     <ul>
@@ -30,6 +30,13 @@ permalink: /contributors/
       <li>Tracey Krause, Health Sciences Library, McMaster University Libraries</li>
       <li>Sarah Minos, McMaster University Libraries</li>
       <li>Luis Navarro, McMaster University</li>
+    </ul>
+    <h2>Event Volunteers</h2>
+    <ul>
+      <li>Danica Evering, Sherman Centre for Digital Scholarship, McMaster University Libraries</li>
+      <li>Annela Kennedy-Williams, McMaster University</li>
+      <li>Devon Mordell, MacPherson Institute, McMaster University</li>
+      <li>Rahmah Rahmani, McMaster University</li>
     </ul>
     <h2>Community Outreach Support</h2>
     <ul>
