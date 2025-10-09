@@ -18,7 +18,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton" >Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton</h2>
-    <h4>  Speakers: Melanie Bedore </h4>
+    <h4>  Facilitator: Melanie Bedore </h4>
         <p>
         This interactive workshop guides educators, community organizers, and others, in crafting impactful learning experiences that encourage learners to step beyond their usual environments and engage with parts of Hamilton they have yet to explore.
         </p>
@@ -84,13 +84,13 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Stories of Migration and Belonging — Making Hamilton Home" >  Stories of Migration and Belonging — Making Hamilton Home</h2>
-    <h4>  Speaker: Natasha Martinez, Meredith Leonard </h4>
+    <h4>  Facilitators: Natasha Martinez, Meredith Leonard </h4>
         <p>
         Throughout its history, Hamilton has become home to hundreds of thousands of newcomers, displaced persons and refugees. This workshop invites participants into the Stories of Migration and Belonging exhibit at the Visitor Experience Centre. This exhibition provides insight into peoples’ journeys to Hamilton and showcases the diversity of contemporary immigration. Participants will have the opportunity to walk through the exhibit, hear migration stories through a video presentation, and have a conversation about the ways migration continues to shape Hamilton. The hour will close with time for collective reflection on migration and belonging.
         </p>
     <br><br>
     <h2 id="Urban parks as spaces of multispecies commoning" >Urban parks as spaces of multispecies commoning</h2>
-    <h4>  Speaker: Becky Ellis </h4>
+    <h4>  Facilitator: Becky Ellis </h4>
         <p>
         The Earth is currently in the midst of a global biodiversity crisis (Ceballos et al, 2020; Nath et al, 2022), a phenomenon made worse by climate chaos (Habibullah et al, 2022). Urban parks are some of the most vibrant, dynamic, and contested public spaces in cities and are upheld by some scholars and activists as imperfect examples of urban commons, spaces collectively governed and shared (Ellis, 2022; Parker and Schmidt, 2015). In this walk, Becky Ellis will examine the idea of urban parks as multispecies commons, spaces shared and used by, and belonging to both humans and non-human nature. Using a Hamilton Park as a living example, Dr. Ellis will explore how the process of commoning can facilitate multispecies flourishing by creating crucial habitat, wildlife corridors, “wildness”, and relationships of reciprocity between humans and non-human nature. While commoning alone will not solve the biodiversity crisis, urban parks can be spaces that give glimpses into possibilities of flourishing even in the context of climate chaos, pollution, and habitat loss. 
         </p>
