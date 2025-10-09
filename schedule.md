@@ -109,7 +109,13 @@ permalink: /schedule/
       <tr>
         <td>1:00 - 1:15</td>
         <td rowspan="4" class="unused"></td>
-        <td rowspan="4" >Exhibit Hour</td>
+        <td rowspan="4" >Exhibit Hour<br>
+        Sessions:<br>
+        <ul>
+        <li>BIRD FICTION</li>
+        </ul>
+        Gary Barwin / Sarah Imrisek / Chris Heidebrecht / Jonny Garcia
+        </td>
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Stories of Migration and Belonging — Making Hamilton Home">Stories of Migration and Belonging — Making Hamilton Home </a>
         <br><br>
@@ -199,7 +205,7 @@ permalink: /schedule/
       <tr>
         <td>4:00 - 4:07</td>
         <td>
-        Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)
+        <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</a>
         <br><br>
         Cynthia Meyer
         </td>

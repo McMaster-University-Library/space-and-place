@@ -68,6 +68,21 @@ permalink: /abstracts/
         In this presentation, Elise hosts contributing poets as they read their work aloud; discuss their unique relationship, spirituality, and poetic responsibility to the land; and engage questions from the audience.
         </p>
     <br><br>
+    <h2 id="Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice" >  Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice</h2>
+    <h4>  Speaker: Chris Heidebrecht </h4>
+        <p>
+       As a result of global warming driven by climate change, our planet is experiencing an escalating heat crisis. New global average temperature records continue to be set, and the frequency and intensity of extreme heat events have been and continue to increase worldwide. We often talk about extreme heat in quantitative terms – temperatures, statistics and models – but these alone cannot capture the full picture of who is most affected or how people experience and navigate heat in their daily lives. Community knowledge and lived experience are just as, if not more, important and necessary as numeric indicators when it comes to understanding extreme heat and heat injustice. Further, conventional heat risk assessments tend not to integrate the perspectives of community members, community support services or policymakers and planners. Born out of the recognition that maps can be powerful tools for sharing stories and making visible things that are often unseen, the aim of this current project is to approach heat risk differently and co-design an interactive map with individuals from across Hamilton.  This map will integrate environmental and social data with lived experiences and community knowledge, resulting in a heat risk resource that provides a more complete picture of heat risk and heat injustice, and communicates ideas about how to best address Hamilton’s heat crisis.  For the conference I will be exhibiting initial work on this interactive map in paper format.
+        </p>
+     <h2 id="em.i.gra.tion" >  em.i.gra.tion</h2>
+    <h4>  Speaker: Jonny Garcia</h4>
+        <p>
+       The em.i.gra.tion exhibition by Jonny Garcia consists of 10 artworks that reflect his 10-year journey from 2014 to 2024, visually depicting his experience of arriving in Canada until attaining Canadian citizenship.This series captures the most significant moments throughout this intense journey. It reflects a period of both turmoil and growth, as he navigated the challenges of adapting to a new country.
+        </p>
+        <p>
+        Above, you will also find the authors and abstracts. Please add those to the abstracts page.
+        </p>
+    <br><br>
+    <br><br>
     <h2 id="Stories of Migration and Belonging — Making Hamilton Home" >  Stories of Migration and Belonging — Making Hamilton Home</h2>
     <h4>  Speaker: Natasha Martinez, Meredith Leonard </h4>
         <p>
@@ -163,6 +178,12 @@ permalink: /abstracts/
     <h4>  Speaker: Mutaz Khider  </h4>
         <p>
         Ontario, often conjures images rooted in its industrial past, earning it monikers like "Steel City" or "The Hammer." These preconceived notions, while historically grounded, frequently overshadow the city's evolving identity and complex social fabric. This critical analysis aims to dissect the negative stereotypes and preconceived ideas surrounding Hamilton, moving beyond superficial perceptions to explore its multifaceted reality. We will investigate the city's history as a sanctuary for migrants, newcomers, refugees, and political activists, and compare its urban offerings and social dynamics to those of larger Canadian metropolises such as Toronto, Montreal, Ottawa, and Vancouver. Crucially, this analysis will be underpinned by a rigorous application of key urban sociological theories, providing a robust framework for understanding Hamilton's unique urban experience.
+        </p>
+        <br><br>
+    <h2 id="Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)"> Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</h2>
+    <h4>  Speaker: Cynthia Meyer </h4>
+        <p>
+        My (Cynthia’s) adventures in returning to Hamilton, my childhood home, as a mature and elder woman. Having lived in many places in the wide world, -even in the wilds of downtown Toronto,  I could not have  predicted how important it would be to live in my own birthplace.
         </p>
         <br><br>
     <h2 id="BIRD FICTION" >  BIRD FICTION</h2>
