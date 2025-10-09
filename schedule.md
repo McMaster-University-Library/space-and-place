@@ -205,7 +205,11 @@ permalink: /schedule/
       <tr>
         <td>4:00 - 4:07</td>
         <td>
+<<<<<<< HEAD
         <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</a>
+=======
+        Defying the Trope of Isolation and Aging, for an Independent Woman (or Growing Community in My Garden)
+>>>>>>> 524fce520b6f134d12860bd3d2c08b332d02cc61
         <br><br>
         Cynthia Meyer
         </td>
