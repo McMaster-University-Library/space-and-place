@@ -110,7 +110,7 @@ permalink: /schedule/
         <td>1:00 - 1:15</td>
         <td rowspan="4" class="unused"></td>
         <td rowspan="4" >Exhibit Hour<br>
-        Sessions:<br>
+        <br><br>
         <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION<br><br></a>Gary Barwin / Sarah Imrisek
         <br><br>
         <a href="{{ site.baseurl }}/abstracts/#Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice">
