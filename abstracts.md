@@ -194,4 +194,4 @@ permalink: /abstracts/
         <p>
         My (Cynthia’s) adventures in returning to Hamilton, my childhood home, as a mature and elder woman. Having lived in many places in the wide world, -even in the wilds of downtown Toronto,  I could not have  predicted how important it would be to live in my own birthplace.
         </p>
-    <br>
+    <br><br>
