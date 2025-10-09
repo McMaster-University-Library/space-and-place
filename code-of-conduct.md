@@ -87,6 +87,8 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     </ul>
 
 <h2>Reporting Concerns </h2>
-<p>Anyone who witnesses or experiences behavior that violates these principles is encouraged to report it to the event organizers. If you prefer to reach out asynchronously, please contact us via email at <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a>.</p>
+<p>Our conference will include Social Connector Volunteers to help facilitate connections throughout the day and serve as active bystanders.</p>
+<p>Social Connectors will be pointed out throughout the conference so participants can easily identify them.</p>
+<p>If you witness or experience behavior that violates our code of conduct, we encourage you to either report it to the conference co-chairs, Saman Goudarzi and Christine Homuth, or a Social Connector Volunteer. If you prefer to reach out asynchronously, please contact us via email at <a href="mailto:mapref@mcmaster.ca">mapref@mcmaster.ca</a>.</p>
 <br><br><br>
 </div>
