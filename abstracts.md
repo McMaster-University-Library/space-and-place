@@ -82,6 +82,15 @@ permalink: /abstracts/
         <p>
         Above, you will also find the authors and abstracts. Please add those to the abstracts page.
         </p>
+        <br><br>
+        <h2 id="BIRD FICTION" >  BIRD FICTION</h2>
+    <h4>  Speakers: Gary Barwin, Sarah Imrisek</h4>
+        <p>
+        BIRD FICTION (https://garybarwin.com/birdfiction/) is an interactive video work that “gamifies” the consideration of urban Hamilton birds and makes it both beautiful and fun. Poems featuring Hamilton birds appear in iconic local scenes and, using hand gestures detected by a camera, audience members can transform the words into 3D birds, move them around the scene and hear their unique songs. 
+        </p>
+        <p>
+        In a large city like Hamilton, people often feel distant from the natural world. “Bird Fiction” celebrates the biodiversity of urban nature by showing its resilience and how, even downtown, humans and the natural world can remain connected. The aesthetic is bright and lively. Audiences animate birds’ shapes, names and trigger their songs with their hands by pointing to the names of urban bird species contained in poems. All of this, set against vibrant footage from around Hamilton. The projection acts as a vivid playground where the urban, natural, human and the non-human can interact. “Bird Fiction” inspires audiences by showing the surprising diversity of birds that live in Toronto with humans. While acknowledging the very real effects of climate change, we can still become energized and find inspiration for positive change in the continuing adaptability of species. By connecting with the birds and by recognizing and learning their names, audiences can also learn more about the species that share their city.
+        </p>
     <br><br>
     <h2 id="Stories of Migration and Belonging — Making Hamilton Home" >  Stories of Migration and Belonging — Making Hamilton Home</h2>
     <h4>  Speaker: Natasha Martinez, Meredith Leonard </h4>
@@ -185,13 +194,4 @@ permalink: /abstracts/
         <p>
         My (Cynthia’s) adventures in returning to Hamilton, my childhood home, as a mature and elder woman. Having lived in many places in the wide world, -even in the wilds of downtown Toronto,  I could not have  predicted how important it would be to live in my own birthplace.
         </p>
-        <br><br>
-    <h2 id="BIRD FICTION" >  BIRD FICTION</h2>
-    <h4>  Speakers: Gary Barwin, Sarah Imrisek</h4>
-        <p>
-        BIRD FICTION (https://garybarwin.com/birdfiction/) is an interactive video work that “gamifies” the consideration of urban Hamilton birds and makes it both beautiful and fun. Poems featuring Hamilton birds appear in iconic local scenes and, using hand gestures detected by a camera, audience members can transform the words into 3D birds, move them around the scene and hear their unique songs. 
-        </p>
-        <p>
-        In a large city like Hamilton, people often feel distant from the natural world. “Bird Fiction” celebrates the biodiversity of urban nature by showing its resilience and how, even downtown, humans and the natural world can remain connected. The aesthetic is bright and lively. Audiences animate birds’ shapes, names and trigger their songs with their hands by pointing to the names of urban bird species contained in poems. All of this, set against vibrant footage from around Hamilton. The projection acts as a vivid playground where the urban, natural, human and the non-human can interact. “Bird Fiction” inspires audiences by showing the surprising diversity of birds that live in Toronto with humans. While acknowledging the very real effects of climate change, we can still become energized and find inspiration for positive change in the continuing adaptability of species. By connecting with the birds and by recognizing and learning their names, audiences can also learn more about the species that share their city.
-        </p>
-<br>
+    <br>
