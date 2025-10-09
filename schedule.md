@@ -11,8 +11,8 @@ permalink: /schedule/
     <thead>
       <tr>
         <th>Time</th>
-        <th>Hamilton Public Library's Central Library</th>
-        <th>McMaster University's Continuing Education Centre</th>
+        <th>Hamilton Public Library's Central Library <br> Hamilton Room</th>
+        <th>McMaster University's Continuing Education Centre <br> Room 213</th>
         <th>Visitor Experience Centre</th>
         <th>Bayfront Park</th>
       </tr>
@@ -110,7 +110,7 @@ permalink: /schedule/
         <td>1:00 - 1:15</td>
         <td rowspan="4" class="unused"></td>
         <td rowspan="4" >Exhibit Hour<br>
-        Sessions:<br>
+        <br><br>
         <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION<br><br></a>Gary Barwin / Sarah Imrisek
         <br><br>
         <a href="{{ site.baseurl }}/abstracts/#Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice">
@@ -207,7 +207,7 @@ permalink: /schedule/
       <tr>
         <td>4:00 - 4:07</td>
         <td>
-        <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</a>
+        <a href="{{ site.baseurl }}/abstracts/#Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)">Defying the Trope of Isolation and Aging, for an Independent Woman (or Growing Community in My Garden)</a>
         <br><br>
         Cynthia Meyer
         </td>
