@@ -73,6 +73,7 @@ permalink: /abstracts/
         <p>
        As a result of global warming driven by climate change, our planet is experiencing an escalating heat crisis. New global average temperature records continue to be set, and the frequency and intensity of extreme heat events have been and continue to increase worldwide. We often talk about extreme heat in quantitative terms – temperatures, statistics and models – but these alone cannot capture the full picture of who is most affected or how people experience and navigate heat in their daily lives. Community knowledge and lived experience are just as, if not more, important and necessary as numeric indicators when it comes to understanding extreme heat and heat injustice. Further, conventional heat risk assessments tend not to integrate the perspectives of community members, community support services or policymakers and planners. Born out of the recognition that maps can be powerful tools for sharing stories and making visible things that are often unseen, the aim of this current project is to approach heat risk differently and co-design an interactive map with individuals from across Hamilton.  This map will integrate environmental and social data with lived experiences and community knowledge, resulting in a heat risk resource that provides a more complete picture of heat risk and heat injustice, and communicates ideas about how to best address Hamilton’s heat crisis.  For the conference I will be exhibiting initial work on this interactive map in paper format.
         </p>
+        <br><br>
      <h2 id="em.i.gra.tion" >  em.i.gra.tion</h2>
     <h4>  Speaker: Jonny Garcia</h4>
         <p>
@@ -81,7 +82,6 @@ permalink: /abstracts/
         <p>
         Above, you will also find the authors and abstracts. Please add those to the abstracts page.
         </p>
-    <br><br>
     <br><br>
     <h2 id="Stories of Migration and Belonging — Making Hamilton Home" >  Stories of Migration and Belonging — Making Hamilton Home</h2>
     <h4>  Speaker: Natasha Martinez, Meredith Leonard </h4>

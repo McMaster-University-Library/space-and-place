@@ -112,7 +112,7 @@ permalink: /schedule/
         <td rowspan="4" >Exhibit Hour<br>
         Sessions:<br>
         <ul>
-        <li>BIRD FICTION</li>
+        <li><a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION </a></li>
         </ul>
         Gary Barwin / Sarah Imrisek / Chris Heidebrecht / Jonny Garcia
         </td>
