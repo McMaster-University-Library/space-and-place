@@ -78,10 +78,7 @@ permalink: /abstracts/
     <h4>  Speaker: Jonny Garcia</h4>
         <p>
        The em.i.gra.tion exhibition by Jonny Garcia consists of 10 artworks that reflect his 10-year journey from 2014 to 2024, visually depicting his experience of arriving in Canada until attaining Canadian citizenship.This series captures the most significant moments throughout this intense journey. It reflects a period of both turmoil and growth, as he navigated the challenges of adapting to a new country.
-        </p>
-        <p>
-        Above, you will also find the authors and abstracts. Please add those to the abstracts page.
-        </p>
+		</p>
         <br><br>
         <h2 id="BIRD FICTION" >  BIRD FICTION</h2>
     <h4>  Speakers: Gary Barwin, Sarah Imrisek</h4>
