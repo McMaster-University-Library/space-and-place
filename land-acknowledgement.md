@@ -30,5 +30,5 @@ CBCLink: "https://www.cbc.ca/radio/unreserved/redrawing-the-lines-1.4973363/i-re
     <p>
         We commit to moving beyond words into action—<a href="{{ page.CBCLink }}" target ="_blank">knowing that true acknowledgement requires ongoing learning and accountability to the Indigenous Peoples of this region.</a> The planning committee — comprising both individual and institutional actors — honours this responsibility, each to varying degrees, by working to Indigenize and decolonize our institutions, collections, services, and spaces.
     </p>
-
 </div>
+<br><br>
