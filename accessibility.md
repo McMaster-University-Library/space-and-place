@@ -63,4 +63,9 @@ eduCentreLink: "https://maps.app.goo.gl/nmGJygpWyrEWrfdAA"
     To help create a comfortable environment for those with scent sensitivities, we kindly ask attendees to avoid wearing strong perfumes, colognes, or fragranced products.
     </p>
     <br>
+    <h2>Health Protocols</h2>
+    <p>We have health protocols in place to ensure the health and well-being of our conference community.</p>
+    <p>The Space and Place conference is mask-friendly. We fully support anyone who chooses to wear a mask — no questions asked. Masks and hand sanitizer will be available at the registration desk for anyone who needs them.</p>
+    <p>Furthermore, harassment related to masking is prohibited and constitutes a violation of our Code of Conduct.</p>
+    <p>If you’re feeling unwell on the day of the conference, we ask that you use your best judgement. Please attend only if you feel healthy enough to do so, and consider wearing a mask or staying home to help maintain a safe environment for everyone.</p>
 </div>
