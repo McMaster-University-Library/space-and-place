@@ -6,19 +6,19 @@ permalink: /abstracts/
 
 <div class="content-container">
     <h2 id="Renewing Treaty Relations on the River of Life"> Renewing Treaty Relations on the River of Life</h2>
-    <h4>  Speakers: Daniel Coleman, Rick Hill </h4>
+    <h4>Daniel Coleman / Rick Hill / Kelsey Leonard </h4>
         <p>
         Water is an important space in Indigenous and Western Treaty-making, as is modeled in the narrative of the Two Row Wampum Belt. When the Dutch and the Mohawks made the initial agreement in the early 17th century, they used the river as a metaphorical space in which the principles of the Good Mind, Justice and Peacemaking could take place between the Indigenous canoe and the Western Ship. More than this, the “river of life” places the natural world at the centre of the terms of treaty. The treaty-makers said the agreement would last “as long as the rivers flow, the sun rises each day, and the grass turns green each year.” They saw an equivalence between the lifecycles of the river, of the biome, and the lifecycles of human agreements with one another. Indeed, the formulators of the Two Row Wampum said that “no one can claim Mother Earth except the faces, waiting in the ground to be born.” Agreements between humans, according to this way of thinking, are not about claims for property but about the future lives (human and more-than-human) that emerge from Mother Earth. Our panel will consider this safe and healthy river space as a way to rebuild relationships in the era of reconciliation. Select authors of the recent publication Deyohahá:ge: Sharing the River of Life will examine the meaning and function of this treaty relationship space.
         </p>
     <br><br>
     <h2 id="Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place" >Augmented reality as a settler technology: Pokémon Go, palimpsests, and the politics of place</h2>
-    <h4>  Speaker: Victoria Clowater </h4>
+    <h4>Victoria Clowater </h4>
         <p>
        In this presentation, I will explore what the mobile game Pokémon GO reveals about the politics of place by exploring the ways that public memorialization and colonialism shape place knowledge, with a focus on monuments in Hamilton that have become part of the Pokémon GO gameworld. In my past work, I explore the power of Pokémon GO to shape place knowledge and relationships to place and space for players, as well as what the implications of this can be in the colonial context. In this presentation, I will share the recent developments of this work, with a focus on placemaking and monuments in Hamilton. Situated on the traditional territory of the Erie, Neutral, Huron-Wendat, Haudenosaunee and Mississauga First Nations, Southern Ontario’s origin myths are told through monuments and plaques that glorify and uphold the region’s colonial history. Using Pokémon GO as a case study, I demonstrate how the practice and politics of publicly memorializing place history is not neutral; marginalized communities are often prevented from memorialization (i.e., Carter 2014; Cristiano and Distretti 2017; Clowater 2021). Thus, the dominant place narrative—which in Canada is the white colonial narrative—is the version of place that often emerges in Pokémon GO’s AR landscape. This has important implications for understanding how power is reinforced through public memorialization. Using specific examples of monuments in Hamilton that have become part of the Pokémon GO virtual landscape, I will illustrate these systems of power more explicitly, illustrating how settler colonial narratives are advanced through the game and through public memorialization more generally.  
         </p>
     <br><br>
     <h2 id="Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton" >Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton</h2>
-    <h4>  Facilitator: Melanie Bedore </h4>
+    <h4>Melanie Bedore </h4>
         <p>
         This interactive workshop guides educators, community organizers, and others, in crafting impactful learning experiences that encourage learners to step beyond their usual environments and engage with parts of Hamilton they have yet to explore.
         </p>
@@ -30,7 +30,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton" > Guidebooks from Memory: Art, Storytelling, and the Spaces of Hamilton</h2>
-    <h4>  Speakers: Robert Motum, Jojo Chooi-Harley, Jonathan Harley  </h4>
+    <h4>Robert Motum / Jojo Chooi-Harley / Jonathan Harley  </h4>
         <p>
         Guidebooks from Memory is a participatory art project that invites residents to describe their city not through official landmarks or tourism copy, but through memory and story. Developed by Robert Motum (PhD, editor), Jojo Chooi-Harley (BSW, visual art), and Jonathan Harley (MSW, musician), the project gathers anonymous submissions via a public website—stories tied to specific sites across Hamilton, from bus routes and hospitals to parks, demolished buildings, and even the spot where someone once saw a UFO.
         </p>
@@ -42,7 +42,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="A New Frame / Beneath the Map">  A New Frame / Beneath the Map</h2>
-    <h4>  Speaker: Ben Robinson </h4>
+    <h4>Ben Robinson </h4>
     <p>
     My presentation would be shaped around my recent book, As Is, which is a poetic study of Hamilton, ON. The collection utilizes archival documents and local history, challenging the conception of Hamilton as a timeless and stable entity.  
     </p>
@@ -53,11 +53,11 @@ permalink: /abstracts/
     Rather than ahistorical boosterism based on uncritically regurgitated colonial myths, the poems in As Is  focus on treaty, natural history and the land itself. Instead of relying on the arbitrary and ever-manipulable city limits as a frame for understanding this area, poems in the collection examine the tract of land described in the Between the Lakes treaty of 1792, which covers present-day Hamilton, and consider what viewing the region through these terms might reveal about new possible relationships to place. Alongside the treaties, the poems also examine elements of the local fossil record which point to a history of place that predates the existence of both the city and the nation.
     <br><br>
     <h2 id="Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake">  Through the Thick Wood: Indigenous-Settler Entanglement at the Head of the Lake</h2>
-    <h4>  Speaker: Scott Martin </h4>
+    <h4>Scott Martin </h4>
         Nursery (AhGx-8) in the Royal Botanical Gardens, Hamilton, Ontario, has been a locus of activity at least sporadically for millennia. It was one of many sites in the area. Located on the east-west waterway and overland portage route from western Lake Ontario (the Head of the Lake) to the Grand River and westwards, this site was likely known to many generations of travellers and traders. Several exotic and pseudo-exotic chipped stone pieces have been recovered at the site (and others in the broader Dundas Valley area) along with many more ‘everyday’ items pertaining to life between the wetland, the escarpment and the lake. Recently, what is believed to be evidence of a hitherto unknown Mississauga camp of the late eighteenth or early nineteenth century has also been recognised. It is suggested that the occupants were members of Rev. Peter Jones’ (Kahkewaquonaby’s) maternal grandfather’s band. Chief Wahbanosay’s people have been mostly forgotten by Settlers. For the Mississaugas at the Head of the Lake, the years around AD 1800 were a time of great transition - the waning of the fur trade and unrelenting Settler encroachment. Some documentary evidence remains, however, and this will be explored in the context of archaeological finds from the area.
     <br><br>
     <h2 id="Poetry in Place: Reading the land with local poets" >Poetry in Place: Reading the land with local poets</h2>
-    <h4>  Speakers: Elise Bird, Elizabeth Tessier, Arwen Roussell, Gary Barwin </h4>
+    <h4>Elise Bird / Elizabeth Tessie / Arwen Roussell / Gary Barwin </h4>
         <p>
         In the curated anthology Poetry in Place: Poetry and Hope in a Southern Ontario Bioregion, poets ask themselves, “What is it that the land has to say to us?”
         </p>
@@ -69,19 +69,19 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice" >  Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice</h2>
-    <h4>  Speaker: Chris Heidebrecht </h4>
+    <h4>Chris Heidebrecht </h4>
         <p>
        As a result of global warming driven by climate change, our planet is experiencing an escalating heat crisis. New global average temperature records continue to be set, and the frequency and intensity of extreme heat events have been and continue to increase worldwide. We often talk about extreme heat in quantitative terms – temperatures, statistics and models – but these alone cannot capture the full picture of who is most affected or how people experience and navigate heat in their daily lives. Community knowledge and lived experience are just as, if not more, important and necessary as numeric indicators when it comes to understanding extreme heat and heat injustice. Further, conventional heat risk assessments tend not to integrate the perspectives of community members, community support services or policymakers and planners. Born out of the recognition that maps can be powerful tools for sharing stories and making visible things that are often unseen, the aim of this current project is to approach heat risk differently and co-design an interactive map with individuals from across Hamilton.  This map will integrate environmental and social data with lived experiences and community knowledge, resulting in a heat risk resource that provides a more complete picture of heat risk and heat injustice, and communicates ideas about how to best address Hamilton’s heat crisis.  For the conference I will be exhibiting initial work on this interactive map in paper format.
         </p>
         <br><br>
      <h2 id="em.i.gra.tion" >  em.i.gra.tion</h2>
-    <h4>  Speaker: Jonny Garcia</h4>
+    <h4>Jonny Garcia</h4>
         <p>
        The em.i.gra.tion exhibition by Jonny Garcia consists of 10 artworks that reflect his 10-year journey from 2014 to 2024, visually depicting his experience of arriving in Canada until attaining Canadian citizenship.This series captures the most significant moments throughout this intense journey. It reflects a period of both turmoil and growth, as he navigated the challenges of adapting to a new country.
         </p>
         <br><br>
         <h2 id="BIRD FICTION" >  BIRD FICTION</h2>
-    <h4>  Speakers: Gary Barwin, Sarah Imrisek</h4>
+    <h4>Gary Barwin / Sarah Imrisek</h4>
         <p>
         BIRD FICTION (https://garybarwin.com/birdfiction/) is an interactive video work that “gamifies” the consideration of urban Hamilton birds and makes it both beautiful and fun. Poems featuring Hamilton birds appear in iconic local scenes and, using hand gestures detected by a camera, audience members can transform the words into 3D birds, move them around the scene and hear their unique songs. 
         </p>
@@ -90,19 +90,19 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Stories of Migration and Belonging — Making Hamilton Home" >  Stories of Migration and Belonging — Making Hamilton Home</h2>
-    <h4>  Facilitators: Natasha Martinez, Meredith Leonard </h4>
+    <h4>Natasha Martinez / Meredith Leonard </h4>
         <p>
         Throughout its history, Hamilton has become home to hundreds of thousands of newcomers, displaced persons and refugees. This workshop invites participants into the Stories of Migration and Belonging exhibit at the Visitor Experience Centre. This exhibition provides insight into peoples’ journeys to Hamilton and showcases the diversity of contemporary immigration. Participants will have the opportunity to walk through the exhibit, hear migration stories through a video presentation, and have a conversation about the ways migration continues to shape Hamilton. The hour will close with time for collective reflection on migration and belonging.
         </p>
     <br><br>
     <h2 id="Urban parks as spaces of multispecies commoning" >Urban parks as spaces of multispecies commoning</h2>
-    <h4>  Facilitator: Becky Ellis </h4>
+    <h4>Becky Ellis </h4>
         <p>
         The Earth is currently in the midst of a global biodiversity crisis (Ceballos et al, 2020; Nath et al, 2022), a phenomenon made worse by climate chaos (Habibullah et al, 2022). Urban parks are some of the most vibrant, dynamic, and contested public spaces in cities and are upheld by some scholars and activists as imperfect examples of urban commons, spaces collectively governed and shared (Ellis, 2022; Parker and Schmidt, 2015). In this walk, Becky Ellis will examine the idea of urban parks as multispecies commons, spaces shared and used by, and belonging to both humans and non-human nature. Using a Hamilton Park as a living example, Dr. Ellis will explore how the process of commoning can facilitate multispecies flourishing by creating crucial habitat, wildlife corridors, “wildness”, and relationships of reciprocity between humans and non-human nature. While commoning alone will not solve the biodiversity crisis, urban parks can be spaces that give glimpses into possibilities of flourishing even in the context of climate chaos, pollution, and habitat loss. 
         </p>
     <br><br>
     <h2 id="Profane Mapping and the Brightside Neighbourhood Project" >  Profane Mapping and the Brightside Neighbourhood Project</h2>
-    <h4>  Speakers: Simon Orpana, Matt McInnes, Nancy Bouchier </h4>
+    <h4>Simon Orpana / Matt McInnes / Nancy Bouchier </h4>
         <p>
        From 1910 to the 1960’s, Brightside was a thriving neighbourhood of working people and immigrants. Nestled just to the east of the steel giant, Stelco, Brightsiders created a robust culture of mutual aid, sport, recreation, domesticity, and activism in the heart of what many outsiders considered to be an industrial badland. Brightsiders also witnessed the radical transformation of Hamilton’s eastern lowlands, as inlets and open fields were steadily replaced with factories, sewage treatment and waste facilities. In the 1950s and 60s, homes in the neighbourhood were slowly bought or expropriated to be dismantled, house by house, to make room for industrial expansion. Today, all that remains of the 200+ homes of Brightside are a dozen or so houses clinging to the south side of Burlington Street and a couple buildings to the north.
         </p>
@@ -111,7 +111,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Poetry, Protest, and Place: Learning Hamilton Through Solidarity" >  Poetry, Protest, and Place: Learning Hamilton Through Solidarity</h2>
-    <h4>  Speaker: Zahra Tootonsab  </h4>
+    <h4>Zahra Tootonsab  </h4>
     <p>
     This session will include a performance that weaves together poetry and music to explore Hamilton’s complexity through the lenses of solidarity, protest, and community work. Accompanied by the "daf", a traditional Persian frame drum, I will present original poems that reflect my lived experience of coming to know Hamilton through acts of collective struggle, storytelling, and care.
     </p>
@@ -126,19 +126,19 @@ permalink: /abstracts/
     </p>
     <br><br>
     <h2 id="Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton" >  Girls on the Streets: Navigating Public Space and Social Control in Victorian Hamilton</h2>
-    <h4>  Speaker: Jordyn Beaupré </h4>
+    <h4>Jordyn Beaupré </h4>
         <p>
         Interactions with the urban environment are formed at the intersections of social construction, and the historic experience of girls provides one avenue to glimpse this complexity. In my presentation, I mean to consider the gendered boundaries of the public sphere, and how age, class, and standards of acceptable femininity informed the experience of girls on the streets of Hamilton in the past. In the late-Victorian period, girlhood morality became a significant site of social intervention, and the public presence of girls on the streets exemplified these anxieties. Citizens and the police collaborated in their efforts to surveil and curtail unwanted social behaviour, and the liberal use of vagrancy charges was particularly useful in this effort. By tracing these encounters, I argue that Hamilton’s urban landscape was a space actively structured by gendered power. Public space was a contested arena where girls may have engaged in crime, but also in work, play, friendship, dating, asylum seeking, and kinship with the environment, even as municipal systems sought to contain them. Placing girlhood at the centre of this analysis allows us to reflect on how considerations of social identities has shaped access to Hamilton’s built and natural environment. These histories of surveillance and exclusion resonate with ongoing questions about who belongs in the city’s public spaces, and under what terms.
         </p>
     <br><br>
     <h2 id="Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990" >Culverts and Contamination: A Biography of a Creek through Judicial Proceedings, 1986-1990</h2>
-    <h4>  Speaker: Gavin Rees</h4>
+    <h4>Gavin Rees</h4>
         <p>
         In light of recent events that have transpired between the city and the Chedoke Creek, this paper examines ten days of court proceedings that occurred in Hamilton from 1988 to 1991 that contribute a small piece to a growing interest in examining the Chedoke Creek and its relationship with the city and its many other natural environments. The trial involves a Hamilton grocer, a Burlington man, and an oil company who were charged under the Environmental Protection Act (EPA) and the Water Resources Act (WRA) for leaking 1,100 litres of fuel oil into the creek, and eventually, Cootes Paradise. Beyond being an important part of the creek's story, the paper elucidates lessons about public memory, nature, and the importance of place in historical writing. 
         </p>
     <br><br>
     <h2 id="Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements" >Beyond the Welcome Package: Treaty-Informed and Place-Conscious Ritual as Soil Work for Ethical Engagements</h2>
-    <h4>  Speaker: Abdulellah Hbbani (Abdo) </h4>
+    <h4>Abdulellah Hbbani (Abdo) </h4>
         <p>
         What is the role of treaty-informed and place-conscious ritual in newcomers’ settlement and their relationship with Indigenous peoples and settler Canadians? This presentation reflects on Canada’s “White Civility” (Coleman, 2006) through the lens of my own displacement from Sudan and immigration to Hamilton, where institutional orientation practices often overlook Indigenous presence and newcomer epistemologies alike. I contrast this with Sudanese Taaruf which is a ritualistic hospitality practice where guests and hosts are mutually oriented to shared landscapes and relationships, and its adaptation in my Hamilton-based Pamoja tea gatherings.
         </p>
@@ -151,7 +151,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="A City of Words: re-imagining place through poetry in Hamilton, Ontario" >A City of Words: re-imagining place through poetry in Hamilton, Ontario</h2>
-    <h4>  Speaker: Stephanie Sushko </h4>
+    <h4>Stephanie Sushko </h4>
         <p>
         This presentation concerns a Poetry Map which I had the opportunity to create several years ago during Dr. Simon Orpana’s class “Critical and Creative Approaches to Literary Studies: Sharing Knowledges in/with/for Communities” at McMaster University. It is based upon the premise that, in addition to facilitating physical movement from place to place, maps deeply influence, and are influenced by, the ways in which we think and feel about the places they portray. In contrast to maps on a page, these personal “maps in our minds” bear much beyond the proverbial street or building names – which are often rooted in colonial and patriarchal power – instead featuring drawings, symbols, and words which not only speak to the experiences and perceptions of those who place them there, but also denaturalize the aforementioned hierarchical place-based powers. 
         </p>
@@ -160,7 +160,7 @@ permalink: /abstracts/
         </p>
     <br><br>
     <h2 id="Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice" > Understanding International Students' Attitudes and Perceptions of Climate Change Through Photovoice</h2>
-    <h4>  Speakers: Joonsoo Sean Lyeo, Allison Williams, Bharati Sethi </h4>
+    <h4> Joonsoo Sean Lyeo / Allison Williams / Bharati Sethi </h4>
         <p>
         People’s perceptions of the impacts of climate change on human health are influenced by their cultural, social, and historical contexts. Although many students at Canadian universities are part of the “climate change generation”, little is known about the factors shaping their attitudes towards their relationships with climate change. This is especially true for international students, many of whom hail from the Global South. 
         </p>
@@ -172,7 +172,7 @@ permalink: /abstracts/
         </p>
         <br><br>
     <h2 id="Steel City Transit Series" >  Steel City Transit Series</h2>
-    <h4>  Speaker: Esther Kok</h4>
+    <h4>Esther Kok</h4>
     <p>
         The Steel City Transit Series is a print media “zine” series that explores issues in public transportation in Hamilton and throughout the GTHA. It originated in September of 2024, and is supported in editing and publishing by the Lloyd Reeds Map Collection. Seven issues have been published so far, ranging in topics from how to ride the bus to transit history and visual research. I research, write, illustrate, and design each issue independently, with exception for one issue that was a collaboration with a student club. The issues are built around descriptive maps, and each issue features at least one map that I develop myself.
     </p>
@@ -181,13 +181,13 @@ permalink: /abstracts/
     </p>
     <br><br>
     <h2 id="Critical Analysis: Hamilton, Ontario - Beyond Stereotypes" > Critical Analysis: Hamilton, Ontario - Beyond Stereotypes</h2>
-    <h4>  Speaker: Mutaz Khider  </h4>
+    <h4>Mutaz Khider  </h4>
         <p>
         Hamilton, Ontario, often conjures images rooted in its industrial past, earning it monikers like "Steel City" or "The Hammer." These preconceived notions, while historically grounded, frequently overshadow the city's evolving identity and complex social fabric. This critical analysis aims to dissect the negative stereotypes and preconceived ideas surrounding Hamilton, moving beyond superficial perceptions to explore its multifaceted reality. We will investigate the city's history as a sanctuary for migrants, newcomers, refugees, and political activists, and compare its urban offerings and social dynamics to those of larger Canadian metropolises such as Toronto, Montreal, Ottawa, and Vancouver. Crucially, this analysis will be underpinned by a rigorous application of key urban sociological theories, providing a robust framework for understanding Hamilton's unique urban experience.
         </p>
         <br><br>
     <h2 id="Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)"> Defying the Trope of Isolation and Aging, for an Independent Woman. (or Growing Community in My Garden)</h2>
-    <h4>  Speaker: Cynthia Meyer </h4>
+    <h4>Cynthia Meyer </h4>
         <p>
         My (Cynthia’s) adventures in returning to Hamilton, my childhood home, as a mature and elder woman. Having lived in many places in the wide world, -even in the wilds of downtown Toronto,  I could not have  predicted how important it would be to live in my own birthplace.
         </p>

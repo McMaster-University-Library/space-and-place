@@ -31,6 +31,9 @@ dlf_link: "https://www.diglib.org/about/code-of-conduct/"
     <li>
     <strong>Being accountable:</strong> While creating spaces that are fully safe for all participants and facilitators is admirable, it’s not realistic in learning environments where growth often requires discomfort. Safety is also partly beyond our control — we can’t predict others’ behavior or eliminate all potential threats, challenges, or biases. Instead, we aim to foster an accountable space. Participants and facilitators are expected to stay open to feedback, take responsibility for their actions, and work to repair harm when it occurs.
     </li>
+    <li>
+    <strong>Following our  <a href="{{ site.baseurl }}/accessibility/#Health Protocols">health protocols</a>:</strong> Because immunity and access to care vary across individuals, these protocols are designed to support the health and well-being of our entire conference community — regardless of existing health disparities. 
+    </li>
     </ul>
     <p>
     Furthermore, we adopt the <a style="text-decoration: underline;" href="{{ page.dlf_link }}" target ="_blank">Digital Library Federation’s ‘How to Be’ framework</a>, which provides practical guidance for cultivating welcoming, inclusive, and accountable spaces:  
