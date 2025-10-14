@@ -109,13 +109,13 @@ permalink: /schedule/
       <tr>
         <td>1:00 - 1:15</td>
         <td rowspan="4" class="unused"></td>
-        <td rowspan="4" >Exhibit Hour<br><br>
-        <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION<br><br></a>Gary Barwin / Sarah Imrisek
+         <td rowspan="4" >Exhibit Hour:<br><br>
+        <a href="{{ site.baseurl }}/abstracts/#BIRD FICTION">BIRD FICTION</a> - Gary Barwin / Sarah Imrisek
         <br><br>
         <a href="{{ site.baseurl }}/abstracts/#Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice">
-        Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice<br><br></a>Chris Heidebrecht
+         Community Co-Design of a Heat Risk Resource to Promote Awareness and Action to Address Heat Injustice</a> - Chris Heidebrecht
         <br><br>
-        <a href="{{ site.baseurl }}/abstracts/#em.i.gra.tion">em.i.gra.tion<br><br></a>Jonny Garcia
+        <a href="{{ site.baseurl }}/abstracts/#em.i.gra.tion">em.i.gra.tion</a> - Jonny Garcia
         </td>
         <td rowspan="4">
         <a href="{{ site.baseurl }}/abstracts/#Stories of Migration and Belonging — Making Hamilton Home">Stories of Migration and Belonging — Making Hamilton Home </a>
