@@ -179,7 +179,7 @@ permalink: /schedule/
         <br><br>
         Gavin Rees
         <br><br>
-        Room 111
+        Room 213
         </td>
         <td rowspan="5" colspan="2" class="unused"></td>
       </tr>
@@ -195,7 +195,7 @@ permalink: /schedule/
         <br><br>
         Stephanie Sushko
         <br><br>
-        Room 111
+        Room 213
         </td>
       </tr>
       <tr>
@@ -210,7 +210,7 @@ permalink: /schedule/
         <br><br>
         Esther Kok
         <br><br>
-        Room 111
+        Room 213
         </td>
       </tr>
       <tr>
@@ -225,7 +225,7 @@ permalink: /schedule/
         <br><br>
         Mutaz Khider 
         <br><br>
-        Room 111
+        Room 213
         </td>
       </tr>
       <tr>
