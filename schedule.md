@@ -58,7 +58,7 @@ permalink: /schedule/
         Victoria Clowater
         </td>
         <td rowspan="4">
-        <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilto</a>
+        <a href="{{ site.baseurl }}/abstracts/#Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton"> Observe, report, extend: Designing projects to deepen learners' first-hand exposure to Hamilton</a>
         <br><br>
         Melanie Bedore
         <br><br>
