@@ -95,7 +95,7 @@ permalink: /schedule/
         <td rowspan="2">
         <a href="{{ site.baseurl }}/abstracts/#Poetry in Place: Reading the land with local poets">Poetry in Place: Reading the land with local poets</a>
         <br><br>
-        Elise Bird / Elizabeth Tessier / Arwen Roussell / Gary Barwin
+        Elise Bird / Elizabeth Tessier / Arwen Roussell
         </td>
         <td rowspan="2" class="unused" style=""></td>
       </tr>
