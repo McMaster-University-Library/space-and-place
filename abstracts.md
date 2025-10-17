@@ -57,7 +57,7 @@ permalink: /abstracts/
         Nursery (AhGx-8) in the Royal Botanical Gardens, Hamilton, Ontario, has been a locus of activity at least sporadically for millennia. It was one of many sites in the area. Located on the east-west waterway and overland portage route from western Lake Ontario (the Head of the Lake) to the Grand River and westwards, this site was likely known to many generations of travellers and traders. Several exotic and pseudo-exotic chipped stone pieces have been recovered at the site (and others in the broader Dundas Valley area) along with many more ‘everyday’ items pertaining to life between the wetland, the escarpment and the lake. Recently, what is believed to be evidence of a hitherto unknown Mississauga camp of the late eighteenth or early nineteenth century has also been recognised. It is suggested that the occupants were members of Rev. Peter Jones’ (Kahkewaquonaby’s) maternal grandfather’s band. Chief Wahbanosay’s people have been mostly forgotten by Settlers. For the Mississaugas at the Head of the Lake, the years around AD 1800 were a time of great transition - the waning of the fur trade and unrelenting Settler encroachment. Some documentary evidence remains, however, and this will be explored in the context of archaeological finds from the area.
     <br><br>
     <h2 id="Poetry in Place: Reading the land with local poets" >Poetry in Place: Reading the land with local poets</h2>
-    <h4>Elise Bird / Elizabeth Tessie / Arwen Roussell / Gary Barwin </h4>
+    <h4>Elise Bird / Elizabeth Tessie / Arwen Roussell </h4>
         <p>
         In the curated anthology Poetry in Place: Poetry and Hope in a Southern Ontario Bioregion, poets ask themselves, “What is it that the land has to say to us?”
         </p>
